@@ -1,0 +1,3 @@
+libraries needed : matplotlib, numpy, lxml, networkx
+example of use of gen alg :
+python seastems2.py 200 data/network results/ path_to_distance_file(or None) /*path_to_nodedata_file(or None)*/
