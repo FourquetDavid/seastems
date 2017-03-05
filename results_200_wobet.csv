@@ -1,0 +1,4469 @@
+date,type,tree0,tree1,tree2,tree3
+1977,all,"
+GTreeNodeBase [Childs=0] - [[3.96, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[3.96, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[2.27, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[9.47, 'OrigCoreN']]
+","
+GTreeNodeBase [Childs=0] - [[2.27, 'Loop']]
+"
+1977,B,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.04, 'NormalizedOrigDegree']]
+  GTreeNodeBase [Childs=0] - [[1.84, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[6.01, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[1.84, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[9.14, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[1.84, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[6.01, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[1.84, 'CommonNeighbors']]
+"
+1977,C,"
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[8.51, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[6.42, 'Loop']]
+      GTreeNodeBase [Childs=0] - [[7.09, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[6.42, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[6.42, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[5.16, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[6.42, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[17.35, 'CommonNeighbors']]
+"
+1977,L,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.85, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.85, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.2, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.85, 'CommonNeighbors']]
+"
+1977,T,"
+GTreeNodeBase [Childs=0] - [[1.68, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[1.68, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[1.68, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[1.68, 'CommonNeighbors']]
+"
+1977,TL,"
+GTreeNodeBase [Childs=0] - [[7.55, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[10.87, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[1.15, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[7.09, 'CommonNeighbors']]
+"
+1978,all,"
+GTreeNodeBase [Childs=0] - [[2.55, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[13.24, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[0.02, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[0.81, 'Loop']]
+"
+1978,B,"
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[9.57, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[9.57, 'Distance']]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=2] - [inv]
+        GTreeNodeBase [Childs=0] - [[9.57, 'Distance']]
+      GTreeNodeBase [Childs=0] - [[6.3, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[5.22, 'OrigClustering']]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=2] - [T]
+        GTreeNodeBase [Childs=0] - [[10.08, 'TargCloseness']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=0] - [[8.45, 'OrigCloseness']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[5.22, 'OrigClustering']]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=2] - [N]
+        GTreeNodeBase [Childs=0] - [[10.08, 'TargCloseness']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=0] - [[8.45, 'OrigCloseness']]
+"
+1978,C,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.02, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.02, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.02, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.02, 'CommonNeighbors']]
+"
+1978,L,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.41, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[5.07, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[2.41, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[5.07, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=0] - [[0.86, 'CommonNeighbors']]
+"
+1978,T,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[1.95, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[8.09, 'TargClustering']]
+","
+GTreeNodeBase [Childs=0] - [[1.95, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[3.4, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[1.95, 'CommonNeighbors']]
+"
+1978,TL,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.44, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[1.09, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[3.99, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.44, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[1.9, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[3.99, 'TargClustering']]
+"
+1979,all,"
+GTreeNodeBase [Childs=0] - [[15.17, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[6.83, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[3.45, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[6.62, 'OrigEccentricity']]
+    GTreeNodeBase [Childs=0] - [[3.45, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[6.83, 'CommonNeighbors']]
+"
+1979,B,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[6.84, 'NormalizedOrigDegree']]
+  GTreeNodeBase [Childs=0] - [[3.38, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[9.52, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[8.04, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[6.74, 'Loop']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[7.57, 'Constant']]
+      GTreeNodeBase [Childs=0] - [[0.29, 'Constant']]
+    GTreeNodeBase [Childs=0] - [[6.74, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[4.67, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[3.38, 'CommonNeighbors']]
+"
+1979,C,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.27, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.27, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.27, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.27, 'CommonNeighbors']]
+"
+1979,L,"
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=0] - [[1.43, 'TargCoreN']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[3.8, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=0] - [[1.43, 'TargCoreN']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[3.8, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.8, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=0] - [[1.43, 'TargCoreN']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[3.8, 'CommonNeighbors']]
+"
+1979,T,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[0.59, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[0.59, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=0] - [[0.59, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=0] - [[0.59, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[0.59, 'CommonNeighbors']]
+"
+1979,TL,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[10.51, 'NormalizedOrigDegree']]
+    GTreeNodeBase [Childs=0] - [[1.38, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[0.44, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.94, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.94, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.94, 'CommonNeighbors']]
+"
+1980,all,"
+GTreeNodeBase [Childs=0] - [[4.76, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=0] - [[4.76, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[0.86, 'TargId']]
+","
+GTreeNodeBase [Childs=0] - [[12.3, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[16.82, 'CommonNeighbors']]
+"
+1980,B,"
+GTreeNodeBase [Childs=2] - [N]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[0.71, 'Distance']]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=2] - [opp]
+        GTreeNodeBase [Childs=0] - [[10.22, 'OrigCoreN']]
+      GTreeNodeBase [Childs=0] - [[4.73, 'TargEccentricity']]
+","
+GTreeNodeBase [Childs=2] - [N]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=0] - [[0.71, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [N]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[0.71, 'Distance']]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=2] - [opp]
+        GTreeNodeBase [Childs=0] - [[10.22, 'OrigCoreN']]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=0] - [[3.12, 'NormalizedOrigId']]
+        GTreeNodeBase [Childs=0] - [[5.17, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [N]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[7.81, 'Distance']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[0.03, 'Random']]
+        GTreeNodeBase [Childs=2] - [opp]
+          GTreeNodeBase [Childs=0] - [[2.54, 'NormalizedTargDegree']]
+    GTreeNodeBase [Childs=0] - [[1.26, 'TargDegree']]
+"
+1980,C,"
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[7.56, 'TargCloseness']]
+  GTreeNodeBase [Childs=0] - [[7.68, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[7.56, 'TargCloseness']]
+  GTreeNodeBase [Childs=0] - [[7.68, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[1.94, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=2] - [*]
+          GTreeNodeBase [Childs=0] - [[5.43, 'Loop']]
+          GTreeNodeBase [Childs=0] - [[1.23, 'OrigCloseness']]
+  GTreeNodeBase [Childs=0] - [[12.68, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[10.69, 'Loop']]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[4.95, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=2] - [N]
+        GTreeNodeBase [Childs=2] - [max]
+          GTreeNodeBase [Childs=0] - [[6.14, 'TargEccentricity']]
+          GTreeNodeBase [Childs=0] - [[7.23, 'RevDistance']]
+"
+1980,L,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[4.87, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[4.09, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=0] - [[3.72, 'OrigDegree']]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=0] - [[0.16, 'TargCloseness']]
+      GTreeNodeBase [Childs=0] - [[1.97, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[0.02, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[4.87, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[4.09, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[3.72, 'OrigDegree']]
+      GTreeNodeBase [Childs=2] - [inv]
+        GTreeNodeBase [Childs=0] - [[1.38, 'Constant']]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=0] - [[0.16, 'TargCloseness']]
+      GTreeNodeBase [Childs=0] - [[1.97, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[5.09, 'CommonNeighbors']]
+"
+1980,T,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[3.58, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[2.68, 'TargCoreN']]
+  GTreeNodeBase [Childs=0] - [[4.52, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[3.58, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[2.68, 'TargCoreN']]
+  GTreeNodeBase [Childs=0] - [[4.52, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[3.58, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=0] - [[6.03, 'OrigDegree']]
+      GTreeNodeBase [Childs=2] - [N]
+        GTreeNodeBase [Childs=0] - [[1.99, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[3.58, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=0] - [[8.14, 'Random']]
+      GTreeNodeBase [Childs=0] - [[8.47, 'OrigPagerank']]
+"
+1980,TL,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.41, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.41, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.41, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.41, 'CommonNeighbors']]
+"
+1981,all,,,,
+1981,B,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[5.64, 'OrigId']]
+  GTreeNodeBase [Childs=0] - [[2.55, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[5.64, 'OrigId']]
+  GTreeNodeBase [Childs=0] - [[2.55, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[5.64, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[5.64, 'OrigId']]
+  GTreeNodeBase [Childs=0] - [[2.55, 'CommonNeighbors']]
+"
+1981,C,"
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[9.57, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[9.57, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[9.57, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [N]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[3.26, 'TargDegree']]
+      GTreeNodeBase [Childs=0] - [[5.07, 'TargPagerank']]
+  GTreeNodeBase [Childs=0] - [[3.91, 'NormalizedRevDistance']]
+"
+1981,L,"
+GTreeNodeBase [Childs=0] - [[3.0, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=0] - [[5.49, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[5.49, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[5.49, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[5.75, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[5.49, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[5.49, 'CommonNeighbors']]
+"
+1981,T,"
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[1.15, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[4.36, 'TargClustering']]
+","
+GTreeNodeBase [Childs=0] - [[10.0, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[1.15, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[1.15, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[4.36, 'TargClustering']]
+"
+1981,TL,"
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[0.81, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[0.32, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[0.81, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[0.32, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[0.32, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[0.32, 'CommonNeighbors']]
+"
+1982,all,"
+GTreeNodeBase [Childs=0] - [[2.38, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.99, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.38, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.38, 'Loop']]
+"
+1982,B,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.48, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.48, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.48, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.48, 'CommonNeighbors']]
+"
+1982,C,"
+GTreeNodeBase [Childs=0] - [[2.24, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[9.97, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=2] - [inv]
+          GTreeNodeBase [Childs=2] - [inv]
+            GTreeNodeBase [Childs=0] - [[5.68, 'NumberOfEdges']]
+  GTreeNodeBase [Childs=0] - [[2.25, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[9.97, 'Loop']]
+"
+1982,L,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[5.52, 'TargClustering']]
+  GTreeNodeBase [Childs=0] - [[5.52, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[5.52, 'TargClustering']]
+  GTreeNodeBase [Childs=0] - [[5.52, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[7.78, 'OrigId']]
+  GTreeNodeBase [Childs=0] - [[5.52, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[2.82, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[8.67, 'OrigPagerank']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=0] - [[7.66, 'SameCommunity']]
+    GTreeNodeBase [Childs=0] - [[5.52, 'TargClustering']]
+"
+1982,T,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[0.85, 'TargPagerank']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[9.74, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[0.61, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[5.15, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[0.61, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[9.74, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[5.0, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[0.61, 'TargClustering']]
+      GTreeNodeBase [Childs=0] - [[0.61, 'TargClustering']]
+    GTreeNodeBase [Childs=0] - [[0.85, 'TargPagerank']]
+  GTreeNodeBase [Childs=0] - [[2.21, 'CommonNeighbors']]
+"
+1982,TL,"
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=0] - [[1.57, 'TargCloseness']]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=2] - [abs]
+        GTreeNodeBase [Childs=0] - [[5.81, 'Distance']]
+      GTreeNodeBase [Childs=2] - [opp]
+        GTreeNodeBase [Childs=0] - [[3.71, 'TargPagerank']]
+  GTreeNodeBase [Childs=0] - [[9.98, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=0] - [[1.93, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=2] - [abs]
+          GTreeNodeBase [Childs=0] - [[8.44, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=2] - [opp]
+        GTreeNodeBase [Childs=0] - [[3.71, 'TargPagerank']]
+  GTreeNodeBase [Childs=0] - [[6.3, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[1.57, 'TargCloseness']]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=0] - [[2.19, 'Loop']]
+        GTreeNodeBase [Childs=2] - [H]
+          GTreeNodeBase [Childs=0] - [[1.87, 'NormalizedTargDegree']]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=2] - [-]
+          GTreeNodeBase [Childs=0] - [[5.76, 'TargEccentricity']]
+          GTreeNodeBase [Childs=0] - [[1.84, 'OrigPagerank']]
+      GTreeNodeBase [Childs=2] - [<]
+        GTreeNodeBase [Childs=2] - [exp]
+          GTreeNodeBase [Childs=0] - [[5.17, 'NormalizedTargId']]
+        GTreeNodeBase [Childs=0] - [[3.35, 'OrigId']]
+  GTreeNodeBase [Childs=0] - [[8.44, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[1.57, 'TargCloseness']]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=0] - [[8.44, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=2] - [max]
+        GTreeNodeBase [Childs=0] - [[3.39, 'OrigCloseness']]
+        GTreeNodeBase [Childs=0] - [[2.89, 'TargEccentricity']]
+  GTreeNodeBase [Childs=0] - [[8.44, 'CommonNeighbors']]
+"
+1983,all,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=0] - [[3.64, 'TargCloseness']]
+        GTreeNodeBase [Childs=0] - [[11.95, 'Loop']]
+      GTreeNodeBase [Childs=0] - [[3.87, 'TargId']]
+    GTreeNodeBase [Childs=0] - [[7.25, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[10.99, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[11.72, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[11.72, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[11.72, 'Loop']]
+"
+1983,B,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[0.07, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[1.69, 'TargClustering']]
+    GTreeNodeBase [Childs=0] - [[0.35, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[6.65, 'NormalizedTargId']]
+      GTreeNodeBase [Childs=0] - [[2.09, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[0.35, 'OrigDegree']]
+        GTreeNodeBase [Childs=0] - [[0.35, 'OrigDegree']]
+      GTreeNodeBase [Childs=0] - [[6.1, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[0.35, 'OrigDegree']]
+      GTreeNodeBase [Childs=0] - [[0.35, 'OrigDegree']]
+    GTreeNodeBase [Childs=0] - [[6.1, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[8.91, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[8.91, 'OrigId']]
+"
+1983,C,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.27, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[8.73, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=2] - [max]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[9.41, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[9.34, 'Distance']]
+  GTreeNodeBase [Childs=0] - [[5.91, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.27, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[1.43, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.27, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[8.73, 'Random']]
+"
+1983,L,"
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[3.18, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[3.18, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[3.18, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[4.69, 'RevDistance']]
+"
+1983,T,"
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[2.47, 'RevDistance']]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=2] - [H]
+          GTreeNodeBase [Childs=0] - [[1.32, 'Random']]
+        GTreeNodeBase [Childs=0] - [[9.72, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[3.19, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[8.03, 'TargPagerank']]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=2] - [inv]
+          GTreeNodeBase [Childs=0] - [[8.03, 'TargPagerank']]
+        GTreeNodeBase [Childs=0] - [[2.78, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [opp]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[4.61, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [opp]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[4.61, 'CommonNeighbors']]
+"
+1983,TL,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[1.88, 'NormalizedOrigId']]
+    GTreeNodeBase [Childs=0] - [[3.13, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[1.88, 'NormalizedOrigId']]
+    GTreeNodeBase [Childs=0] - [[3.13, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[1.88, 'NormalizedOrigId']]
+    GTreeNodeBase [Childs=0] - [[2.59, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[1.88, 'NormalizedOrigId']]
+    GTreeNodeBase [Childs=0] - [[3.13, 'CommonNeighbors']]
+"
+1984,all,"
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[4.75, 'OrigId']]
+    GTreeNodeBase [Childs=0] - [[6.9, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=0] - [[7.2, 'NormalizedOrigId']]
+      GTreeNodeBase [Childs=0] - [[9.75, 'NormalizedOrigDegree']]
+    GTreeNodeBase [Childs=0] - [[1.13, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[1.11, 'OrigId']]
+    GTreeNodeBase [Childs=0] - [[6.9, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=0] - [[1.13, 'NormalizedOrigId']]
+      GTreeNodeBase [Childs=2] - [max]
+        GTreeNodeBase [Childs=0] - [[2.0, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=0] - [[4.25, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[6.9, 'TargId']]
+"
+1984,B,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[1.03, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[1.03, 'NormalizedOrigId']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[1.03, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[7.64, 'NormalizedOrigId']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[1.03, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[5.24, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=0] - [[5.32, 'TargClustering']]
+      GTreeNodeBase [Childs=0] - [[3.66, 'TargDegree']]
+    GTreeNodeBase [Childs=0] - [[0.18, 'CommonNeighbors']]
+"
+1984,C,"
+GTreeNodeBase [Childs=0] - [[2.25, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.25, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.25, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.25, 'Loop']]
+"
+1984,L,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[3.68, 'TargClustering']]
+    GTreeNodeBase [Childs=0] - [[1.66, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=0] - [[0.12, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=2] - [=]
+          GTreeNodeBase [Childs=0] - [[3.02, 'NormalizedDistance']]
+          GTreeNodeBase [Childs=0] - [[2.33, 'RevDistance']]
+        GTreeNodeBase [Childs=2] - [min]
+          GTreeNodeBase [Childs=0] - [[2.58, 'TargEccentricity']]
+          GTreeNodeBase [Childs=0] - [[4.1, 'NormalizedDistance']]
+      GTreeNodeBase [Childs=0] - [[6.92, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[3.68, 'Random']]
+    GTreeNodeBase [Childs=0] - [[1.66, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[2.67, 'Random']]
+    GTreeNodeBase [Childs=0] - [[5.83, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=2] - [N]
+        GTreeNodeBase [Childs=2] - [-]
+          GTreeNodeBase [Childs=2] - [-]
+            GTreeNodeBase [Childs=0] - [[10.43, 'TargDegree']]
+            GTreeNodeBase [Childs=0] - [[8.8, 'Loop']]
+          GTreeNodeBase [Childs=0] - [[8.15, 'TargId']]
+      GTreeNodeBase [Childs=0] - [[10.05, 'NormalizedDistance']]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=0] - [[0.2, 'Loop']]
+      GTreeNodeBase [Childs=2] - [opp]
+        GTreeNodeBase [Childs=0] - [[6.87, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [N]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[9.1, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=0] - [[10.05, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[2.17, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=2] - [H]
+    GTreeNodeBase [Childs=0] - [[10.05, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[1.66, 'CommonNeighbors']]
+"
+1984,T,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[9.44, 'TargClustering']]
+    GTreeNodeBase [Childs=0] - [[1.89, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[5.92, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[9.44, 'TargClustering']]
+    GTreeNodeBase [Childs=0] - [[1.89, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=0] - [[7.35, 'Loop']]
+      GTreeNodeBase [Childs=0] - [[1.89, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[5.92, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[4.29, 'TargClustering']]
+  GTreeNodeBase [Childs=0] - [[1.89, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[9.43, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[5.44, 'TargClustering']]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[7.35, 'Loop']]
+      GTreeNodeBase [Childs=0] - [[7.98, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.57, 'NormalizedTargId']]
+"
+1984,TL,"
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[0.93, 'NormalizedRevDistance']]
+    GTreeNodeBase [Childs=0] - [[2.43, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[0.93, 'NormalizedRevDistance']]
+    GTreeNodeBase [Childs=0] - [[2.43, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[0.93, 'NormalizedRevDistance']]
+    GTreeNodeBase [Childs=0] - [[2.43, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[0.93, 'NormalizedRevDistance']]
+    GTreeNodeBase [Childs=0] - [[2.43, 'CommonNeighbors']]
+"
+1985,all,"
+GTreeNodeBase [Childs=0] - [[10.5, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[10.5, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=0] - [[10.5, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[10.5, 'Loop']]
+"
+1985,B,"
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=0] - [[6.58, 'TargId']]
+  GTreeNodeBase [Childs=0] - [[0.79, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [H]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=2] - [max]
+        GTreeNodeBase [Childs=2] - [>]
+          GTreeNodeBase [Childs=0] - [[4.11, 'Random']]
+          GTreeNodeBase [Childs=0] - [[4.83, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=2] - [>]
+          GTreeNodeBase [Childs=0] - [[3.31, 'Random']]
+          GTreeNodeBase [Childs=0] - [[4.83, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[6.58, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [H]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=0] - [[2.86, 'RevDistance']]
+  GTreeNodeBase [Childs=0] - [[1.49, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [H]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=0] - [[3.6, 'Distance']]
+  GTreeNodeBase [Childs=0] - [[6.58, 'TargId']]
+"
+1985,C,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[3.0, 'TargId']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[3.82, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[5.46, 'Loop']]
+      GTreeNodeBase [Childs=2] - [max]
+        GTreeNodeBase [Childs=0] - [[4.96, 'TargClustering']]
+        GTreeNodeBase [Childs=0] - [[0.41, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[5.46, 'Loop']]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[5.46, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=2] - [H]
+        GTreeNodeBase [Childs=2] - [exp]
+          GTreeNodeBase [Childs=0] - [[3.16, 'NormalizedRevDistance']]
+      GTreeNodeBase [Childs=0] - [[0.41, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[5.46, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[0.41, 'NormalizedTargId']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[5.46, 'Loop']]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[5.46, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[5.29, 'Loop']]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[2.42, 'TargCoreN']]
+        GTreeNodeBase [Childs=0] - [[2.76, 'TargEccentricity']]
+"
+1985,L,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.55, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.73, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.55, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.55, 'CommonNeighbors']]
+"
+1985,T,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.49, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.49, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.49, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.49, 'CommonNeighbors']]
+"
+1985,TL,"
+GTreeNodeBase [Childs=0] - [[5.29, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[6.03, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[6.52, 'TargId']]
+","
+GTreeNodeBase [Childs=0] - [[3.93, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[6.04, 'CommonNeighbors']]
+"
+1986,all,"
+GTreeNodeBase [Childs=0] - [[1.99, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.99, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.99, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.99, 'Loop']]
+"
+1986,B,"
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[2.37, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[2.37, 'TargId']]
+    GTreeNodeBase [Childs=0] - [[5.42, 'TargPagerank']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[0.07, 'Loop']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[1.91, 'Constant']]
+      GTreeNodeBase [Childs=0] - [[10.64, 'TargDegree']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[2.37, 'TargId']]
+    GTreeNodeBase [Childs=0] - [[14.9, 'TargId']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[0.07, 'Loop']]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=0] - [[2.78, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[2.37, 'TargId']]
+"
+1986,C,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.68, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.68, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.68, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[5.68, 'CommonNeighbors']]
+"
+1986,L,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[2.08, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[2.96, 'TargClustering']]
+","
+GTreeNodeBase [Childs=0] - [[2.47, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[7.09, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[7.63, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[2.08, 'CommonNeighbors']]
+"
+1986,T,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[13.84, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[0.86, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[0.86, 'SameCommunity']]
+    GTreeNodeBase [Childs=0] - [[6.54, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[6.54, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[1.75, 'OrigClustering']]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=0] - [[4.9, 'Random']]
+      GTreeNodeBase [Childs=0] - [[2.92, 'OrigCoreN']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.86, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[4.92, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[10.23, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[8.17, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[6.54, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[13.84, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[2.04, 'CommonNeighbors']]
+"
+1986,TL,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.97, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.97, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.84, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.97, 'CommonNeighbors']]
+"
+1987,all,"
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[3.25, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[3.25, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[7.6, 'Loop']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=0] - [[1.77, 'NumberOfEdges']]
+      GTreeNodeBase [Childs=0] - [[3.25, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[3.25, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[3.25, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[7.6, 'Loop']]
+"
+1987,B,"
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[4.26, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[9.65, 'NormalizedTargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[1.53, 'OrigPagerank']]
+        GTreeNodeBase [Childs=0] - [[5.28, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=2] - [inv]
+        GTreeNodeBase [Childs=2] - [T]
+          GTreeNodeBase [Childs=0] - [[4.26, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[5.34, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=0] - [[0.04, 'NormalizedOrigDegree']]
+    GTreeNodeBase [Childs=0] - [[2.81, 'NormalizedOrigId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=2] - [inv]
+        GTreeNodeBase [Childs=2] - [H]
+          GTreeNodeBase [Childs=0] - [[1.03, 'OrigEccentricity']]
+    GTreeNodeBase [Childs=0] - [[5.34, 'TargId']]
+"
+1987,C,"
+GTreeNodeBase [Childs=0] - [[0.21, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[11.63, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[3.08, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[0.21, 'CommonNeighbors']]
+"
+1987,L,"
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[11.04, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[4.11, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[11.04, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[4.11, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[1.83, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[0.74, 'TargId']]
+  GTreeNodeBase [Childs=0] - [[13.19, 'OrigClustering']]
+"
+1987,T,"
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=0] - [[3.02, 'Loop']]
+        GTreeNodeBase [Childs=2] - [abs]
+          GTreeNodeBase [Childs=0] - [[0.94, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[3.5, 'TargDegree']]
+    GTreeNodeBase [Childs=0] - [[1.55, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=0] - [[0.05, 'NormalizedRevDistance']]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=0] - [[3.18, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[1.55, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[2.2, 'OrigCoreN']]
+        GTreeNodeBase [Childs=2] - [abs]
+          GTreeNodeBase [Childs=0] - [[0.97, 'RevDistance']]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[0.42, 'OrigEccentricity']]
+        GTreeNodeBase [Childs=0] - [[0.49, 'TargCoreN']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=0] - [[0.38, 'TargPagerank']]
+      GTreeNodeBase [Childs=0] - [[3.58, 'TargDegree']]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=0] - [[3.02, 'Loop']]
+        GTreeNodeBase [Childs=0] - [[12.77, 'NormalizedOrigDegree']]
+      GTreeNodeBase [Childs=2] - [>]
+        GTreeNodeBase [Childs=0] - [[1.32, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=0] - [[1.55, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=0] - [[0.05, 'NormalizedRevDistance']]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=0] - [[1.51, 'TargPagerank']]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=0] - [[3.5, 'NormalizedTargId']]
+"
+1987,TL,"
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[2.3, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=0] - [[10.39, 'OrigCloseness']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [max]
+    GTreeNodeBase [Childs=0] - [[9.87, 'NormalizedDistance']]
+    GTreeNodeBase [Childs=0] - [[7.42, 'OrigCoreN']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[4.11, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[6.27, 'Loop']]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=0] - [[2.3, 'NormalizedRevDistance']]
+      GTreeNodeBase [Childs=2] - [max]
+        GTreeNodeBase [Childs=0] - [[0.8, 'NormalizedTargId']]
+        GTreeNodeBase [Childs=2] - [<]
+          GTreeNodeBase [Childs=0] - [[1.13, 'OrigCoreN']]
+          GTreeNodeBase [Childs=0] - [[9.09, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[6.27, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[6.27, 'Loop']]
+"
+1988,all,"
+GTreeNodeBase [Childs=0] - [[6.81, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[6.54, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[10.36, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[10.36, 'Loop']]
+"
+1988,B,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.79, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.79, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.54, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[1.33, 'CommonNeighbors']]
+"
+1988,C,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[6.83, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=2] - [N]
+        GTreeNodeBase [Childs=0] - [[2.17, 'TargDegree']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[6.83, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=2] - [N]
+        GTreeNodeBase [Childs=0] - [[2.17, 'TargDegree']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[6.83, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=2] - [N]
+        GTreeNodeBase [Childs=0] - [[2.17, 'TargDegree']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[6.83, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[2.39, 'RevDistance']]
+      GTreeNodeBase [Childs=0] - [[0.13, 'NormalizedOrigId']]
+"
+1988,L,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[3.56, 'TargClustering']]
+  GTreeNodeBase [Childs=0] - [[8.05, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[12.36, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [N]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=2] - [abs]
+        GTreeNodeBase [Childs=0] - [[0.05, 'TargPagerank']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[12.36, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [N]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=0] - [[1.64, 'TargPagerank']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[8.88, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[8.88, 'OrigCloseness']]
+"
+1988,T,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [max]
+    GTreeNodeBase [Childs=0] - [[3.1, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[4.65, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [max]
+    GTreeNodeBase [Childs=0] - [[3.1, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[4.65, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[3.1, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[3.1, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=0] - [[1.25, 'Distance']]
+    GTreeNodeBase [Childs=0] - [[0.61, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.1, 'CommonNeighbors']]
+"
+1988,TL,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[1.77, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=0] - [[2.85, 'TargClustering']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[4.83, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=2] - [log]
+          GTreeNodeBase [Childs=2] - [log]
+            GTreeNodeBase [Childs=0] - [[2.91, 'NormalizedOrigDegree']]
+        GTreeNodeBase [Childs=0] - [[3.18, 'Random']]
+      GTreeNodeBase [Childs=0] - [[11.71, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[11.71, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[1.54, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=2] - [abs]
+        GTreeNodeBase [Childs=0] - [[2.96, 'NormalizedOrigDegree']]
+      GTreeNodeBase [Childs=2] - [abs]
+        GTreeNodeBase [Childs=0] - [[6.18, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[5.57, 'TargDegree']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=0] - [[1.38, 'NormalizedOrigDegree']]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=2] - [/]
+          GTreeNodeBase [Childs=2] - [log]
+            GTreeNodeBase [Childs=0] - [[11.71, 'CommonNeighbors']]
+          GTreeNodeBase [Childs=0] - [[3.65, 'NormalizedTargId']]
+        GTreeNodeBase [Childs=0] - [[3.18, 'Random']]
+      GTreeNodeBase [Childs=0] - [[11.71, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[0.53, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=2] - [N]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=0] - [[1.13, 'NormalizedOrigDegree']]
+        GTreeNodeBase [Childs=2] - [log]
+          GTreeNodeBase [Childs=2] - [/]
+            GTreeNodeBase [Childs=0] - [[2.91, 'NormalizedOrigDegree']]
+            GTreeNodeBase [Childs=0] - [[1.78, 'OrigEccentricity']]
+      GTreeNodeBase [Childs=0] - [[2.51, 'OrigClustering']]
+"
+1989,all,,,,
+1989,B,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[4.71, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[13.47, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[4.71, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[5.89, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[1.5, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[4.71, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=0] - [[4.71, 'SameCommunity']]
+      GTreeNodeBase [Childs=0] - [[5.89, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=0] - [[2.33, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=0] - [[5.1, 'OrigId']]
+"
+1989,C,"
+GTreeNodeBase [Childs=0] - [[12.33, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[11.28, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[12.33, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[2.35, 'CommonNeighbors']]
+"
+1989,L,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.04, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[7.15, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[12.06, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[1.64, 'NormalizedTargDegree']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[7.15, 'SameCommunity']]
+"
+1989,T,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[11.67, 'NormalizedTargDegree']]
+    GTreeNodeBase [Childs=0] - [[5.83, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[0.26, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=0] - [[3.21, 'TargId']]
+    GTreeNodeBase [Childs=0] - [[0.26, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[11.67, 'NormalizedTargDegree']]
+    GTreeNodeBase [Childs=0] - [[5.83, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[5.83, 'OrigClustering']]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[7.84, 'SameCommunity']]
+      GTreeNodeBase [Childs=0] - [[5.83, 'TargPagerank']]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[2.81, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[5.83, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.26, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[5.83, 'OrigClustering']]
+"
+1989,TL,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.8, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.8, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[0.4, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[0.4, 'CommonNeighbors']]
+"
+1990,all,"
+GTreeNodeBase [Childs=0] - [[6.31, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[10.41, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[6.31, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[6.31, 'Loop']]
+"
+1990,B,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.94, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.94, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.94, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.94, 'CommonNeighbors']]
+"
+1990,C,"
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=0] - [[2.24, 'Loop']]
+      GTreeNodeBase [Childs=2] - [<]
+        GTreeNodeBase [Childs=0] - [[3.11, 'NormalizedDistance']]
+        GTreeNodeBase [Childs=0] - [[2.79, 'TargId']]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[0.03, 'Loop']]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[3.71, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=0] - [[2.24, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=0] - [[9.67, 'NormalizedRevDistance']]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[1.36, 'OrigPagerank']]
+        GTreeNodeBase [Childs=0] - [[2.24, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[4.18, 'TargId']]
+","
+GTreeNodeBase [Childs=0] - [[2.24, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[3.31, 'Loop']]
+"
+1990,L,"
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.13, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=0] - [[3.29, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.13, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=0] - [[3.29, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.13, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=0] - [[3.29, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.9, 'CommonNeighbors']]
+"
+1990,T,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[2.56, 'TargClustering']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=0] - [[6.03, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[15.33, 'TargId']]
+        GTreeNodeBase [Childs=0] - [[9.23, 'TargId']]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=2] - [/]
+          GTreeNodeBase [Childs=0] - [[1.3, 'NormalizedOrigId']]
+          GTreeNodeBase [Childs=0] - [[2.15, 'TargPagerank']]
+        GTreeNodeBase [Childs=0] - [[0.28, 'NormalizedTargId']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[2.56, 'TargClustering']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=0] - [[6.03, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=2] - [<]
+        GTreeNodeBase [Childs=0] - [[7.96, 'Constant']]
+        GTreeNodeBase [Childs=0] - [[9.23, 'TargId']]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=2] - [/]
+          GTreeNodeBase [Childs=0] - [[1.3, 'NormalizedOrigId']]
+          GTreeNodeBase [Childs=0] - [[7.97, 'Loop']]
+        GTreeNodeBase [Childs=0] - [[0.28, 'NormalizedTargId']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[2.56, 'TargClustering']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=0] - [[6.03, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[8.44, 'Loop']]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=2] - [/]
+          GTreeNodeBase [Childs=0] - [[1.3, 'NormalizedOrigId']]
+          GTreeNodeBase [Childs=0] - [[2.15, 'TargPagerank']]
+        GTreeNodeBase [Childs=0] - [[0.28, 'NormalizedTargId']]
+","
+GTreeNodeBase [Childs=0] - [[0.69, 'Loop']]
+"
+1990,TL,"
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[4.28, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[4.28, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[4.28, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[4.28, 'Distance']]
+"
+1991,all,"
+GTreeNodeBase [Childs=0] - [[0.36, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.36, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[0.36, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=0] - [[7.72, 'NormalizedOrigDegree']]
+      GTreeNodeBase [Childs=0] - [[8.68, 'Random']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[2.92, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[0.36, 'Loop']]
+"
+1991,B,"
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=0] - [[2.39, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=0] - [[9.45, 'OrigCloseness']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.39, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[15.07, 'NormalizedOrigId']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.39, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=0] - [[9.45, 'OrigCloseness']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.39, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=0] - [[9.45, 'OrigCloseness']]
+"
+1991,C,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.72, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.72, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.72, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.72, 'CommonNeighbors']]
+"
+1991,L,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[9.32, 'RevDistance']]
+  GTreeNodeBase [Childs=2] - [max]
+    GTreeNodeBase [Childs=0] - [[7.41, 'SameCommunity']]
+    GTreeNodeBase [Childs=0] - [[6.53, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[2.0, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=0] - [[6.53, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=0] - [[4.68, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[8.31, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=0] - [[8.31, 'OrigClustering']]
+"
+1991,T,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[9.1, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=0] - [[9.1, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[0.82, 'NumberOfEdges']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=2] - [>]
+        GTreeNodeBase [Childs=0] - [[2.33, 'Loop']]
+        GTreeNodeBase [Childs=0] - [[7.66, 'Loop']]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=0] - [[12.07, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[0.17, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[0.82, 'NumberOfEdges']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=2] - [>]
+        GTreeNodeBase [Childs=0] - [[2.33, 'Loop']]
+        GTreeNodeBase [Childs=0] - [[7.66, 'Loop']]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=0] - [[12.07, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[0.17, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[9.1, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=2] - [H]
+        GTreeNodeBase [Childs=0] - [[1.06, 'TargClustering']]
+"
+1991,TL,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.76, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.98, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.13, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.61, 'CommonNeighbors']]
+"
+1992,all,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[6.7, 'TargPagerank']]
+  GTreeNodeBase [Childs=0] - [[2.34, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[5.16, 'OrigId']]
+  GTreeNodeBase [Childs=0] - [[2.34, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[2.41, 'Loop']]
+      GTreeNodeBase [Childs=0] - [[2.41, 'Loop']]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=2] - [N]
+          GTreeNodeBase [Childs=0] - [[2.34, 'Loop']]
+        GTreeNodeBase [Childs=0] - [[2.34, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[2.34, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[2.34, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[2.34, 'Loop']]
+"
+1992,B,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[4.7, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[2.88, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=0] - [[5.48, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[6.1, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[2.88, 'OrigDegree']]
+  GTreeNodeBase [Childs=0] - [[4.7, 'Loop']]
+"
+1992,C,"
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[3.39, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[3.39, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.39, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[2.41, 'Loop']]
+"
+1992,L,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[6.17, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[6.03, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[3.88, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[6.17, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[3.57, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[3.57, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[3.41, 'NormalizedOrigDegree']]
+"
+1992,T,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[4.46, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[8.05, 'Loop']]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=0] - [[9.56, 'NormalizedOrigId']]
+        GTreeNodeBase [Childs=0] - [[2.18, 'TargPagerank']]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[2.49, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[3.08, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[8.8, 'TargDegree']]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=0] - [[11.1, 'Loop']]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[2.49, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=0] - [[9.54, 'OrigCloseness']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[8.05, 'Loop']]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=2] - [*]
+          GTreeNodeBase [Childs=0] - [[5.34, 'SameCommunity']]
+          GTreeNodeBase [Childs=0] - [[2.7, 'Loop']]
+        GTreeNodeBase [Childs=0] - [[1.04, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[4.46, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=2] - [T]
+          GTreeNodeBase [Childs=2] - [log]
+            GTreeNodeBase [Childs=0] - [[3.9, 'OrigDegree']]
+        GTreeNodeBase [Childs=0] - [[1.4, 'OrigClustering']]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[9.53, 'SameCommunity']]
+    GTreeNodeBase [Childs=0] - [[1.03, 'Distance']]
+  GTreeNodeBase [Childs=0] - [[1.04, 'CommonNeighbors']]
+"
+1992,TL,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.85, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.85, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.85, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.85, 'CommonNeighbors']]
+"
+1993,all,"
+GTreeNodeBase [Childs=0] - [[2.39, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [max]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=0] - [[6.34, 'NormalizedDistance']]
+      GTreeNodeBase [Childs=0] - [[3.17, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=2] - [max]
+          GTreeNodeBase [Childs=0] - [[14.75, 'TargId']]
+          GTreeNodeBase [Childs=0] - [[0.37, 'TargId']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=0] - [[4.68, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [opp]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=0] - [[4.2, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [opp]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[1.58, 'RevDistance']]
+        GTreeNodeBase [Childs=0] - [[6.34, 'NormalizedOrigId']]
+      GTreeNodeBase [Childs=2] - [-]
+        GTreeNodeBase [Childs=0] - [[2.64, 'SameCommunity']]
+        GTreeNodeBase [Childs=2] - [log]
+          GTreeNodeBase [Childs=0] - [[5.61, 'TargCloseness']]
+"
+1993,B,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[1.56, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[4.35, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[3.94, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[0.32, 'TargDegree']]
+","
+GTreeNodeBase [Childs=0] - [[1.81, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[4.18, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[0.75, 'TargDegree']]
+"
+1993,C,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[2.78, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[2.78, 'Random']]
+","
+GTreeNodeBase [Childs=0] - [[0.57, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[2.78, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[2.78, 'Random']]
+","
+GTreeNodeBase [Childs=0] - [[0.57, 'CommonNeighbors']]
+"
+1993,L,"
+GTreeNodeBase [Childs=0] - [[6.23, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[0.9, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.15, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[0.9, 'Loop']]
+"
+1993,T,"
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[0.04, 'Loop']]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=0] - [[1.28, 'NormalizedTargDegree']]
+    GTreeNodeBase [Childs=0] - [[7.79, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=0] - [[2.07, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[2.77, 'Loop']]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=0] - [[6.49, 'NormalizedRevDistance']]
+    GTreeNodeBase [Childs=2] - [N]
+      GTreeNodeBase [Childs=0] - [[2.85, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[0.04, 'Loop']]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=0] - [[1.28, 'NormalizedTargDegree']]
+      GTreeNodeBase [Childs=0] - [[3.34, 'NormalizedRevDistance']]
+"
+1993,TL,"
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=0] - [[5.04, 'RevDistance']]
+        GTreeNodeBase [Childs=0] - [[8.7, 'TargId']]
+  GTreeNodeBase [Childs=0] - [[5.73, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=2] - [T]
+        GTreeNodeBase [Childs=2] - [+]
+          GTreeNodeBase [Childs=2] - [abs]
+            GTreeNodeBase [Childs=0] - [[0.31, 'OrigId']]
+          GTreeNodeBase [Childs=0] - [[4.4, 'RevDistance']]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=0] - [[1.71, 'OrigEccentricity']]
+  GTreeNodeBase [Childs=0] - [[2.56, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=0] - [[6.04, 'Loop']]
+      GTreeNodeBase [Childs=2] - [>]
+        GTreeNodeBase [Childs=0] - [[3.72, 'OrigCloseness']]
+        GTreeNodeBase [Childs=0] - [[2.43, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[5.04, 'RevDistance']]
+    GTreeNodeBase [Childs=0] - [[8.7, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=2] - [T]
+        GTreeNodeBase [Childs=0] - [[4.82, 'OrigPagerank']]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=0] - [[1.55, 'NormalizedTargId']]
+  GTreeNodeBase [Childs=0] - [[2.56, 'TargId']]
+"
+1994,all,"
+GTreeNodeBase [Childs=0] - [[2.76, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.48, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.48, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[2.76, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[6.28, 'OrigCoreN']]
+"
+1994,B,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[1.91, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[6.56, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[1.91, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[5.62, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[5.31, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[2.83, 'NormalizedOrigId']]
+  GTreeNodeBase [Childs=0] - [[4.26, 'CommonNeighbors']]
+"
+1994,C,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[0.98, 'OrigCloseness']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[3.08, 'TargCloseness']]
+      GTreeNodeBase [Childs=0] - [[1.34, 'Loop']]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=0] - [[8.86, 'OrigCloseness']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[13.26, 'SameCommunity']]
+    GTreeNodeBase [Childs=0] - [[3.41, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[1.17, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[13.43, 'OrigEccentricity']]
+    GTreeNodeBase [Childs=0] - [[6.28, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=0] - [[0.55, 'SameCommunity']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[2.54, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=2] - [min]
+          GTreeNodeBase [Childs=2] - [+]
+            GTreeNodeBase [Childs=0] - [[0.98, 'OrigCloseness']]
+            GTreeNodeBase [Childs=0] - [[2.24, 'TargEccentricity']]
+          GTreeNodeBase [Childs=2] - [<]
+            GTreeNodeBase [Childs=0] - [[6.28, 'CommonNeighbors']]
+            GTreeNodeBase [Childs=0] - [[2.01, 'NormalizedOrigDegree']]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=0] - [[3.06, 'OrigCoreN']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[13.43, 'OrigEccentricity']]
+    GTreeNodeBase [Childs=0] - [[6.28, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=0] - [[0.55, 'SameCommunity']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[2.54, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=2] - [min]
+          GTreeNodeBase [Childs=2] - [inv]
+            GTreeNodeBase [Childs=0] - [[0.98, 'OrigCloseness']]
+          GTreeNodeBase [Childs=2] - [min]
+            GTreeNodeBase [Childs=0] - [[1.34, 'Loop']]
+            GTreeNodeBase [Childs=0] - [[3.41, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=0] - [[0.55, 'SameCommunity']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[2.54, 'NormalizedRevDistance']]
+        GTreeNodeBase [Childs=2] - [min]
+          GTreeNodeBase [Childs=2] - [min]
+            GTreeNodeBase [Childs=0] - [[13.43, 'OrigEccentricity']]
+            GTreeNodeBase [Childs=0] - [[6.28, 'CommonNeighbors']]
+          GTreeNodeBase [Childs=2] - [<]
+            GTreeNodeBase [Childs=0] - [[3.44, 'NormalizedOrigId']]
+            GTreeNodeBase [Childs=0] - [[2.01, 'NormalizedOrigDegree']]
+"
+1994,L,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[3.2, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=0] - [[1.36, 'Loop']]
+      GTreeNodeBase [Childs=0] - [[1.14, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[3.2, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=0] - [[1.36, 'Loop']]
+      GTreeNodeBase [Childs=0] - [[1.14, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[3.2, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=2] - [-]
+        GTreeNodeBase [Childs=0] - [[4.5, 'OrigId']]
+        GTreeNodeBase [Childs=0] - [[1.01, 'OrigPagerank']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[6.87, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=2] - [-]
+        GTreeNodeBase [Childs=0] - [[4.5, 'OrigId']]
+        GTreeNodeBase [Childs=2] - [min]
+          GTreeNodeBase [Childs=0] - [[6.1, 'SameCommunity']]
+          GTreeNodeBase [Childs=2] - [inv]
+            GTreeNodeBase [Childs=0] - [[0.45, 'OrigPagerank']]
+"
+1994,T,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.96, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.96, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.96, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.96, 'CommonNeighbors']]
+"
+1994,TL,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.82, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.82, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.82, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.82, 'CommonNeighbors']]
+"
+1995,all,"
+GTreeNodeBase [Childs=0] - [[2.77, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[3.36, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[2.33, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=0] - [[1.61, 'CommonNeighbors']]
+"
+1995,B,"
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[1.15, 'OrigCoreN']]
+  GTreeNodeBase [Childs=0] - [[0.2, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[1.15, 'OrigCoreN']]
+  GTreeNodeBase [Childs=0] - [[0.2, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[5.13, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=0] - [[6.72, 'TargPagerank']]
+      GTreeNodeBase [Childs=0] - [[1.28, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[0.2, 'RevDistance']]
+"
+1995,C,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[3.81, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[3.06, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=0] - [[5.79, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=0] - [[0.12, 'TargClustering']]
+  GTreeNodeBase [Childs=0] - [[7.86, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=0] - [[5.85, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[8.94, 'SameCommunity']]
+"
+1995,L,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.44, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[6.1, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[0.99, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[1.09, 'NormalizedTargId']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[6.1, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[7.4, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.44, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[6.1, 'OrigClustering']]
+"
+1995,T,"
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[3.22, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.22, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.59, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[3.22, 'CommonNeighbors']]
+"
+1995,TL,"
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=0] - [[5.25, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[2.14, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=0] - [[0.61, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[22.06, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[11.8, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[10.01, 'Loop']]
+"
+1996,all,"
+GTreeNodeBase [Childs=0] - [[1.57, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[1.57, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=0] - [[5.07, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[8.26, 'NormalizedTargId']]
+  GTreeNodeBase [Childs=0] - [[5.26, 'Constant']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[0.79, 'TargId']]
+"
+1996,B,"
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[3.49, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[3.49, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[3.49, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[0.82, 'TargId']]
+"
+1996,C,"
+GTreeNodeBase [Childs=2] - [T]
+  GTreeNodeBase [Childs=2] - [opp]
+    GTreeNodeBase [Childs=0] - [[2.8, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[3.91, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[11.78, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[3.91, 'OrigId']]
+"
+1996,L,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[13.5, 'TargDegree']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[9.04, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[5.22, 'TargClustering']]
+","
+GTreeNodeBase [Childs=0] - [[9.04, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[13.5, 'TargDegree']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[5.22, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[5.22, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [N]
+    GTreeNodeBase [Childs=2] - [N]
+      GTreeNodeBase [Childs=0] - [[0.37, 'OrigId']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[1.65, 'NumberOfEdges']]
+        GTreeNodeBase [Childs=2] - [*]
+          GTreeNodeBase [Childs=0] - [[7.11, 'OrigCoreN']]
+          GTreeNodeBase [Childs=0] - [[2.28, 'SameCommunity']]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=2] - [log]
+          GTreeNodeBase [Childs=0] - [[8.72, 'Loop']]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=0] - [[7.91, 'Random']]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=0] - [[5.61, 'NormalizedTargDegree']]
+        GTreeNodeBase [Childs=2] - [T]
+          GTreeNodeBase [Childs=0] - [[11.18, 'OrigPagerank']]
+"
+1996,T,"
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[6.61, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[4.45, 'OrigDegree']]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=2] - [abs]
+        GTreeNodeBase [Childs=2] - [+]
+          GTreeNodeBase [Childs=2] - [log]
+            GTreeNodeBase [Childs=0] - [[2.45, 'OrigDegree']]
+          GTreeNodeBase [Childs=2] - [=]
+            GTreeNodeBase [Childs=0] - [[1.9, 'OrigCloseness']]
+            GTreeNodeBase [Childs=0] - [[5.63, 'Loop']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=2] - [inv]
+          GTreeNodeBase [Childs=0] - [[0.71, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=0] - [[6.6, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.74, 'Constant']]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=2] - [N]
+      GTreeNodeBase [Childs=0] - [[9.54, 'NormalizedDistance']]
+    GTreeNodeBase [Childs=0] - [[0.71, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=0] - [[7.73, 'NormalizedTargId']]
+        GTreeNodeBase [Childs=2] - [inv]
+          GTreeNodeBase [Childs=0] - [[1.27, 'RevDistance']]
+      GTreeNodeBase [Childs=2] - [max]
+        GTreeNodeBase [Childs=2] - [exp]
+          GTreeNodeBase [Childs=0] - [[5.58, 'Loop']]
+        GTreeNodeBase [Childs=0] - [[12.59, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=2] - [inv]
+        GTreeNodeBase [Childs=0] - [[3.69, 'TargClustering']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=2] - [/]
+          GTreeNodeBase [Childs=2] - [=]
+            GTreeNodeBase [Childs=0] - [[5.55, 'NormalizedOrigDegree']]
+            GTreeNodeBase [Childs=0] - [[3.44, 'NormalizedDistance']]
+          GTreeNodeBase [Childs=0] - [[6.61, 'Random']]
+        GTreeNodeBase [Childs=0] - [[0.71, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[12.59, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[6.61, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[4.48, 'OrigDegree']]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=2] - [abs]
+        GTreeNodeBase [Childs=2] - [+]
+          GTreeNodeBase [Childs=2] - [log]
+            GTreeNodeBase [Childs=0] - [[2.45, 'OrigDegree']]
+          GTreeNodeBase [Childs=2] - [=]
+            GTreeNodeBase [Childs=0] - [[1.9, 'OrigCloseness']]
+            GTreeNodeBase [Childs=0] - [[5.63, 'Loop']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=2] - [inv]
+          GTreeNodeBase [Childs=0] - [[0.71, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=0] - [[6.6, 'CommonNeighbors']]
+"
+1996,TL,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[1.89, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=0] - [[2.6, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[1.89, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=2] - [inv]
+        GTreeNodeBase [Childs=0] - [[4.75, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=0] - [[2.29, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[7.87, 'TargId']]
+"
+1997,all,"
+GTreeNodeBase [Childs=0] - [[4.66, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.66, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.5, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[4.66, 'Loop']]
+"
+1997,B,"
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[0.54, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[0.54, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[0.54, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[0.54, 'TargId']]
+"
+1997,C,"
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [N]
+    GTreeNodeBase [Childs=0] - [[3.35, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [max]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=0] - [[1.96, 'OrigId']]
+      GTreeNodeBase [Childs=0] - [[16.54, 'TargEccentricity']]
+    GTreeNodeBase [Childs=0] - [[2.49, 'Distance']]
+","
+GTreeNodeBase [Childs=0] - [[6.99, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[20.39, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[1.82, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[2.88, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.88, 'Loop']]
+"
+1997,L,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.52, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[10.0, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.52, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[10.0, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.52, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[21.23, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[5.38, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[1.79, 'Loop']]
+"
+1997,T,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.31, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.31, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.31, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.31, 'CommonNeighbors']]
+"
+1997,TL,"
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=0] - [[0.65, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[0.86, 'TargCoreN']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=0] - [[0.65, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[3.84, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=0] - [[0.65, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[3.84, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=0] - [[0.65, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[3.84, 'TargClustering']]
+"
+1998,all,"
+GTreeNodeBase [Childs=0] - [[0.38, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[3.52, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[0.38, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=0] - [[6.3, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[0.13, 'Loop']]
+"
+1998,B,"
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[2.14, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[6.45, 'Random']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[0.04, 'TargPagerank']]
+        GTreeNodeBase [Childs=0] - [[6.44, 'NormalizedTargDegree']]
+    GTreeNodeBase [Childs=0] - [[0.29, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[6.98, 'NormalizedOrigId']]
+  GTreeNodeBase [Childs=0] - [[2.45, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[6.45, 'Random']]
+    GTreeNodeBase [Childs=2] - [N]
+      GTreeNodeBase [Childs=0] - [[1.26, 'NumberOfEdges']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[1.26, 'Random']]
+      GTreeNodeBase [Childs=0] - [[7.09, 'OrigCloseness']]
+    GTreeNodeBase [Childs=0] - [[0.31, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=2] - [inv]
+        GTreeNodeBase [Childs=0] - [[7.31, 'OrigClustering']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=2] - [=]
+          GTreeNodeBase [Childs=2] - [opp]
+            GTreeNodeBase [Childs=0] - [[5.94, 'OrigCoreN']]
+          GTreeNodeBase [Childs=0] - [[4.32, 'Constant']]
+        GTreeNodeBase [Childs=0] - [[0.29, 'NormalizedRevDistance']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[6.45, 'Random']]
+      GTreeNodeBase [Childs=0] - [[1.79, 'NormalizedRevDistance']]
+    GTreeNodeBase [Childs=0] - [[0.29, 'NormalizedRevDistance']]
+"
+1998,C,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[1.27, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=0] - [[3.75, 'Constant']]
+    GTreeNodeBase [Childs=0] - [[4.65, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[10.47, 'TargCloseness']]
+  GTreeNodeBase [Childs=0] - [[2.73, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=0] - [[5.42, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=2] - [abs]
+        GTreeNodeBase [Childs=0] - [[10.84, 'SameCommunity']]
+"
+1998,L,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[0.85, 'Loop']]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=0] - [[7.88, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[0.85, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[0.85, 'Loop']]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=0] - [[7.88, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[0.85, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[9.9, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[8.57, 'CommonNeighbors']]
+"
+1998,T,"
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[5.85, 'OrigCloseness']]
+    GTreeNodeBase [Childs=0] - [[6.91, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[5.85, 'OrigCloseness']]
+    GTreeNodeBase [Childs=0] - [[6.91, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[2.02, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[5.85, 'OrigCloseness']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[4.56, 'SameCommunity']]
+"
+1998,TL,"
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[13.47, 'TargClustering']]
+  GTreeNodeBase [Childs=0] - [[1.9, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[13.47, 'TargClustering']]
+  GTreeNodeBase [Childs=0] - [[1.9, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[7.67, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[9.77, 'OrigPagerank']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=0] - [[1.86, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[13.47, 'TargClustering']]
+  GTreeNodeBase [Childs=0] - [[1.9, 'CommonNeighbors']]
+"
+1999,all,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[12.02, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[2.75, 'Distance']]
+  GTreeNodeBase [Childs=0] - [[10.92, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[2.24, 'TargCloseness']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=2] - [opp]
+          GTreeNodeBase [Childs=0] - [[9.62, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[12.02, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[12.79, 'CommonNeighbors']]
+"
+1999,B,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.25, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.25, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.25, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.25, 'CommonNeighbors']]
+"
+1999,C,"
+GTreeNodeBase [Childs=0] - [[4.92, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=0] - [[0.42, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[6.26, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=0] - [[7.93, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[1.47, 'CommonNeighbors']]
+"
+1999,L,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.43, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.64, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.43, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[0.57, 'CommonNeighbors']]
+"
+1999,T,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.1, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[1.85, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.1, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.1, 'CommonNeighbors']]
+"
+1999,TL,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[4.45, 'Loop']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[2.9, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[6.53, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[4.45, 'Loop']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[5.87, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[1.19, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[3.7, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[1.09, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[4.45, 'Loop']]
+      GTreeNodeBase [Childs=0] - [[1.19, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[3.7, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[2.9, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[1.19, 'SameCommunity']]
+    GTreeNodeBase [Childs=0] - [[6.53, 'SameCommunity']]
+"
+2000,all,"
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[16.01, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[5.24, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [N]
+    GTreeNodeBase [Childs=0] - [[12.73, 'NormalizedTargId']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[8.26, 'TargCloseness']]
+    GTreeNodeBase [Childs=0] - [[5.86, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[8.16, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[17.47, 'NormalizedOrigDegree']]
+  GTreeNodeBase [Childs=0] - [[17.25, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[0.81, 'CommonNeighbors']]
+"
+2000,B,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[1.24, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[2.29, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[2.75, 'Constant']]
+      GTreeNodeBase [Childs=0] - [[2.29, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[1.72, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[1.24, 'Loop']]
+      GTreeNodeBase [Childs=0] - [[2.29, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[1.56, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[1.24, 'Loop']]
+      GTreeNodeBase [Childs=0] - [[2.29, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[1.72, 'CommonNeighbors']]
+"
+2000,C,"
+GTreeNodeBase [Childs=0] - [[3.76, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[3.76, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[3.76, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[5.9, 'SameCommunity']]
+"
+2000,L,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[2.1, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[4.7, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[4.7, 'OrigEccentricity']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.11, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[4.62, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=0] - [[0.11, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=0] - [[4.92, 'OrigClustering']]
+      GTreeNodeBase [Childs=0] - [[0.11, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[4.7, 'OrigEccentricity']]
+  GTreeNodeBase [Childs=0] - [[2.1, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=0] - [[0.11, 'CommonNeighbors']]
+"
+2000,T,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[6.37, 'OrigId']]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=0] - [[6.76, 'TargCloseness']]
+      GTreeNodeBase [Childs=0] - [[1.55, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[3.8, 'RevDistance']]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=2] - [exp]
+          GTreeNodeBase [Childs=0] - [[2.84, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=2] - [exp]
+          GTreeNodeBase [Childs=0] - [[7.99, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[2.96, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=0] - [[5.1, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[2.84, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[2.84, 'OrigEccentricity']]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=0] - [[6.27, 'TargCloseness']]
+      GTreeNodeBase [Childs=0] - [[4.83, 'Random']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[3.8, 'RevDistance']]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=2] - [exp]
+          GTreeNodeBase [Childs=0] - [[2.84, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=0] - [[4.96, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[2.3, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[2.84, 'CommonNeighbors']]
+"
+2000,TL,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.69, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[4.69, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[5.91, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.69, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.69, 'CommonNeighbors']]
+"
+2001,all,"
+GTreeNodeBase [Childs=0] - [[4.53, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.53, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[0.43, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.21, 'Loop']]
+"
+2001,B,"
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[2.97, 'NormalizedDistance']]
+      GTreeNodeBase [Childs=0] - [[3.89, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=2] - [+]
+          GTreeNodeBase [Childs=0] - [[2.97, 'NormalizedDistance']]
+          GTreeNodeBase [Childs=0] - [[3.89, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[2.97, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[3.12, 'Distance']]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=0] - [[3.89, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[2.97, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[3.12, 'Distance']]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=2] - [exp]
+          GTreeNodeBase [Childs=0] - [[1.79, 'NormalizedDistance']]
+"
+2001,C,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[6.72, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[4.8, 'Random']]
+    GTreeNodeBase [Childs=0] - [[7.28, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[6.72, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[4.05, 'OrigCoreN']]
+    GTreeNodeBase [Childs=0] - [[7.28, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=0] - [[7.28, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[7.28, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[8.21, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[6.72, 'Random']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=2] - [*]
+          GTreeNodeBase [Childs=0] - [[6.22, 'OrigDegree']]
+          GTreeNodeBase [Childs=0] - [[1.84, 'OrigClustering']]
+        GTreeNodeBase [Childs=0] - [[7.28, 'OrigClustering']]
+      GTreeNodeBase [Childs=0] - [[6.72, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[6.22, 'OrigDegree']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=2] - [*]
+          GTreeNodeBase [Childs=0] - [[9.49, 'SameCommunity']]
+          GTreeNodeBase [Childs=0] - [[13.34, 'OrigClustering']]
+        GTreeNodeBase [Childs=2] - [exp]
+          GTreeNodeBase [Childs=0] - [[0.24, 'NormalizedOrigId']]
+      GTreeNodeBase [Childs=0] - [[5.28, 'SameCommunity']]
+"
+2001,L,"
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=2] - [min]
+          GTreeNodeBase [Childs=0] - [[4.1, 'OrigCoreN']]
+          GTreeNodeBase [Childs=0] - [[2.4, 'RevDistance']]
+      GTreeNodeBase [Childs=0] - [[4.84, 'OrigId']]
+    GTreeNodeBase [Childs=0] - [[7.16, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[1.05, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=0] - [[3.43, 'Distance']]
+        GTreeNodeBase [Childs=0] - [[3.42, 'NormalizedOrigDegree']]
+      GTreeNodeBase [Childs=0] - [[5.04, 'NormalizedOrigDegree']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [T]
+        GTreeNodeBase [Childs=2] - [min]
+          GTreeNodeBase [Childs=0] - [[4.1, 'OrigCoreN']]
+          GTreeNodeBase [Childs=0] - [[2.4, 'RevDistance']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=2] - [+]
+          GTreeNodeBase [Childs=2] - [exp]
+            GTreeNodeBase [Childs=0] - [[1.18, 'Random']]
+          GTreeNodeBase [Childs=2] - [+]
+            GTreeNodeBase [Childs=0] - [[2.19, 'SameCommunity']]
+            GTreeNodeBase [Childs=0] - [[7.16, 'CommonNeighbors']]
+        GTreeNodeBase [Childs=0] - [[4.77, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[1.05, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=2] - [min]
+          GTreeNodeBase [Childs=0] - [[4.1, 'OrigCoreN']]
+          GTreeNodeBase [Childs=0] - [[2.4, 'RevDistance']]
+      GTreeNodeBase [Childs=0] - [[1.88, 'OrigId']]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[5.04, 'NormalizedOrigDegree']]
+  GTreeNodeBase [Childs=0] - [[1.05, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=2] - [min]
+          GTreeNodeBase [Childs=0] - [[4.1, 'OrigCoreN']]
+          GTreeNodeBase [Childs=0] - [[2.4, 'RevDistance']]
+      GTreeNodeBase [Childs=0] - [[4.84, 'OrigId']]
+    GTreeNodeBase [Childs=0] - [[7.16, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[1.05, 'SameCommunity']]
+"
+2001,T,"
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=0] - [[3.27, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[0.11, 'TargDegree']]
+      GTreeNodeBase [Childs=0] - [[3.16, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[1.06, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[5.78, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[5.78, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.13, 'Loop']]
+"
+2001,TL,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[6.04, 'Random']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=2] - [log]
+          GTreeNodeBase [Childs=0] - [[7.49, 'OrigClustering']]
+        GTreeNodeBase [Childs=0] - [[0.34, 'SameCommunity']]
+      GTreeNodeBase [Childs=0] - [[3.01, 'NormalizedOrigId']]
+  GTreeNodeBase [Childs=0] - [[3.01, 'NormalizedOrigId']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[6.04, 'Random']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[10.03, 'OrigPagerank']]
+        GTreeNodeBase [Childs=2] - [>]
+          GTreeNodeBase [Childs=0] - [[4.85, 'OrigDegree']]
+          GTreeNodeBase [Childs=0] - [[0.34, 'SameCommunity']]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[2.67, 'NormalizedTargId']]
+        GTreeNodeBase [Childs=0] - [[8.53, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[9.76, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[2.18, 'SameCommunity']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[0.94, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[0.86, 'OrigDegree']]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[2.67, 'NormalizedTargId']]
+        GTreeNodeBase [Childs=2] - [abs]
+          GTreeNodeBase [Childs=0] - [[5.02, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[4.85, 'OrigDegree']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[9.76, 'SameCommunity']]
+      GTreeNodeBase [Childs=2] - [N]
+        GTreeNodeBase [Childs=0] - [[1.11, 'TargCloseness']]
+  GTreeNodeBase [Childs=0] - [[12.22, 'OrigClustering']]
+"
+2002,all,"
+GTreeNodeBase [Childs=0] - [[0.18, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[3.26, 'Random']]
+  GTreeNodeBase [Childs=0] - [[0.18, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[0.18, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [N]
+      GTreeNodeBase [Childs=2] - [N]
+        GTreeNodeBase [Childs=0] - [[6.54, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[3.26, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[3.26, 'Loop']]
+"
+2002,B,"
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[0.62, 'OrigCoreN']]
+  GTreeNodeBase [Childs=0] - [[2.56, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[6.93, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[5.06, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[1.94, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[5.06, 'TargCoreN']]
+  GTreeNodeBase [Childs=0] - [[1.76, 'NormalizedRevDistance']]
+"
+2002,C,"
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=0] - [[5.48, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[1.91, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [max]
+  GTreeNodeBase [Childs=0] - [[1.93, 'NormalizedOrigDegree']]
+  GTreeNodeBase [Childs=0] - [[5.71, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[2.5, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [max]
+    GTreeNodeBase [Childs=0] - [[4.8, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[4.8, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[2.5, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[2.5, 'TargId']]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[11.95, 'SameCommunity']]
+      GTreeNodeBase [Childs=0] - [[3.28, 'TargPagerank']]
+"
+2002,L,"
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[6.61, 'TargPagerank']]
+  GTreeNodeBase [Childs=0] - [[4.9, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=0] - [[3.42, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[3.42, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[16.0, 'Loop']]
+"
+2002,T,"
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=0] - [[2.99, 'OrigEccentricity']]
+      GTreeNodeBase [Childs=0] - [[12.17, 'OrigDegree']]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=0] - [[3.24, 'OrigCoreN']]
+  GTreeNodeBase [Childs=0] - [[0.33, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[8.01, 'OrigCloseness']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=2] - [abs]
+        GTreeNodeBase [Childs=0] - [[0.33, 'NormalizedRevDistance']]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=0] - [[0.39, 'NormalizedRevDistance']]
+        GTreeNodeBase [Childs=2] - [inv]
+          GTreeNodeBase [Childs=0] - [[10.8, 'OrigCoreN']]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=2] - [+]
+          GTreeNodeBase [Childs=0] - [[0.39, 'NormalizedRevDistance']]
+          GTreeNodeBase [Childs=0] - [[2.38, 'OrigDegree']]
+        GTreeNodeBase [Childs=2] - [/]
+          GTreeNodeBase [Childs=2] - [+]
+            GTreeNodeBase [Childs=0] - [[0.69, 'NormalizedRevDistance']]
+            GTreeNodeBase [Childs=0] - [[6.79, 'Distance']]
+          GTreeNodeBase [Childs=0] - [[3.19, 'NumberOfEdges']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[8.01, 'OrigCloseness']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=2] - [abs]
+        GTreeNodeBase [Childs=0] - [[0.33, 'NormalizedRevDistance']]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=0] - [[6.26, 'Constant']]
+        GTreeNodeBase [Childs=0] - [[2.38, 'OrigDegree']]
+      GTreeNodeBase [Childs=0] - [[4.12, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=2] - [>]
+        GTreeNodeBase [Childs=0] - [[2.78, 'Distance']]
+        GTreeNodeBase [Childs=0] - [[0.69, 'NormalizedRevDistance']]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[9.58, 'NormalizedRevDistance']]
+        GTreeNodeBase [Childs=0] - [[1.09, 'TargDegree']]
+    GTreeNodeBase [Childs=0] - [[0.8, 'RevDistance']]
+  GTreeNodeBase [Childs=0] - [[0.69, 'NormalizedRevDistance']]
+"
+2002,TL,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[1.92, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[6.47, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[3.67, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[1.71, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[3.67, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[1.92, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[9.46, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[3.67, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[4.61, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[6.47, 'SameCommunity']]
+"
+2003,all,"
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[1.2, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[0.05, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[0.05, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[1.2, 'CommonNeighbors']]
+"
+2003,B,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[1.32, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[1.32, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[1.32, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[1.32, 'CommonNeighbors']]
+"
+2003,C,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[1.56, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[4.7, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[4.7, 'OrigCloseness']]
+      GTreeNodeBase [Childs=0] - [[6.16, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[1.56, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[4.7, 'SameCommunity']]
+    GTreeNodeBase [Childs=0] - [[1.1, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.1, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[1.56, 'OrigClustering']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[4.7, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=0] - [[4.7, 'OrigCloseness']]
+      GTreeNodeBase [Childs=0] - [[7.86, 'SameCommunity']]
+"
+2003,L,"
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[0.3, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[1.41, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[0.52, 'TargClustering']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[2.73, 'OrigCloseness']]
+    GTreeNodeBase [Childs=0] - [[4.72, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[0.3, 'OrigClustering']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[6.7, 'Loop']]
+        GTreeNodeBase [Childs=2] - [*]
+          GTreeNodeBase [Childs=0] - [[0.3, 'OrigClustering']]
+          GTreeNodeBase [Childs=2] - [min]
+            GTreeNodeBase [Childs=0] - [[2.26, 'OrigCloseness']]
+            GTreeNodeBase [Childs=0] - [[2.66, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[0.91, 'OrigDegree']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [T]
+        GTreeNodeBase [Childs=0] - [[5.47, 'NumberOfEdges']]
+      GTreeNodeBase [Childs=0] - [[2.9, 'TargPagerank']]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=2] - [*]
+          GTreeNodeBase [Childs=0] - [[0.3, 'OrigClustering']]
+          GTreeNodeBase [Childs=0] - [[6.7, 'Random']]
+        GTreeNodeBase [Childs=2] - [+]
+          GTreeNodeBase [Childs=0] - [[1.41, 'SameCommunity']]
+          GTreeNodeBase [Childs=0] - [[6.89, 'TargDegree']]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=0] - [[1.41, 'SameCommunity']]
+        GTreeNodeBase [Childs=0] - [[1.41, 'SameCommunity']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[0.3, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[4.72, 'SameCommunity']]
+"
+2003,T,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[4.78, 'TargPagerank']]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=0] - [[11.35, 'OrigClustering']]
+      GTreeNodeBase [Childs=0] - [[15.32, 'SameCommunity']]
+    GTreeNodeBase [Childs=0] - [[4.26, 'OrigPagerank']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[11.35, 'OrigClustering']]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=0] - [[15.32, 'SameCommunity']]
+      GTreeNodeBase [Childs=0] - [[3.54, 'TargPagerank']]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=0] - [[3.11, 'OrigCloseness']]
+      GTreeNodeBase [Childs=0] - [[15.32, 'SameCommunity']]
+    GTreeNodeBase [Childs=0] - [[4.26, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[5.12, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[0.93, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[4.03, 'TargPagerank']]
+  GTreeNodeBase [Childs=0] - [[15.32, 'SameCommunity']]
+"
+2003,TL,"
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[1.5, 'Constant']]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=2] - [max]
+        GTreeNodeBase [Childs=0] - [[7.43, 'SameCommunity']]
+        GTreeNodeBase [Childs=0] - [[1.5, 'TargId']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[4.1, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=2] - [exp]
+          GTreeNodeBase [Childs=0] - [[8.55, 'TargClustering']]
+      GTreeNodeBase [Childs=2] - [exp]
+        GTreeNodeBase [Childs=0] - [[4.1, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[1.04, 'TargDegree']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[4.1, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[1.5, 'Constant']]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=2] - [max]
+        GTreeNodeBase [Childs=0] - [[7.43, 'SameCommunity']]
+        GTreeNodeBase [Childs=0] - [[1.5, 'TargId']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[4.1, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[0.75, 'Constant']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[4.1, 'CommonNeighbors']]
+"
+2004,all,"
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[8.78, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[8.78, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[8.78, 'Loop']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[1.8, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[3.86, 'OrigPagerank']]
+","
+GTreeNodeBase [Childs=0] - [[8.78, 'Loop']]
+"
+2004,B,"
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [H]
+    GTreeNodeBase [Childs=0] - [[1.49, 'NormalizedRevDistance']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [H]
+      GTreeNodeBase [Childs=0] - [[4.02, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[8.11, 'NormalizedTargDegree']]
+  GTreeNodeBase [Childs=0] - [[4.61, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[8.11, 'NormalizedTargDegree']]
+  GTreeNodeBase [Childs=2] - [max]
+    GTreeNodeBase [Childs=0] - [[2.09, 'NormalizedRevDistance']]
+    GTreeNodeBase [Childs=2] - [<]
+      GTreeNodeBase [Childs=0] - [[1.97, 'NormalizedOrigId']]
+      GTreeNodeBase [Childs=2] - [H]
+        GTreeNodeBase [Childs=0] - [[3.55, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [max]
+    GTreeNodeBase [Childs=0] - [[6.37, 'NormalizedDistance']]
+    GTreeNodeBase [Childs=0] - [[3.41, 'TargClustering']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=0] - [[1.4, 'SameCommunity']]
+"
+2004,C,"
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=0] - [[5.17, 'OrigEccentricity']]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=0] - [[4.8, 'NormalizedDistance']]
+      GTreeNodeBase [Childs=0] - [[4.3, 'TargClustering']]
+  GTreeNodeBase [Childs=2] - [H]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=0] - [[8.62, 'TargDegree']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=0] - [[9.85, 'NormalizedDistance']]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[0.55, 'NormalizedOrigDegree']]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=2] - [max]
+          GTreeNodeBase [Childs=0] - [[6.49, 'TargClustering']]
+          GTreeNodeBase [Childs=2] - [-]
+            GTreeNodeBase [Childs=0] - [[2.61, 'OrigId']]
+            GTreeNodeBase [Childs=0] - [[11.34, 'Random']]
+        GTreeNodeBase [Childs=2] - [=]
+          GTreeNodeBase [Childs=2] - [log]
+            GTreeNodeBase [Childs=0] - [[3.71, 'Distance']]
+          GTreeNodeBase [Childs=0] - [[2.13, 'TargEccentricity']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=0] - [[9.85, 'NormalizedDistance']]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[7.73, 'NormalizedOrigDegree']]
+    GTreeNodeBase [Childs=2] - [T]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=2] - [max]
+          GTreeNodeBase [Childs=0] - [[2.44, 'OrigEccentricity']]
+          GTreeNodeBase [Childs=0] - [[6.95, 'OrigDegree']]
+        GTreeNodeBase [Childs=2] - [*]
+          GTreeNodeBase [Childs=0] - [[2.29, 'OrigDegree']]
+          GTreeNodeBase [Childs=0] - [[11.73, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[1.76, 'NormalizedDistance']]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=2] - [-]
+        GTreeNodeBase [Childs=0] - [[6.28, 'TargCoreN']]
+        GTreeNodeBase [Childs=2] - [=]
+          GTreeNodeBase [Childs=2] - [exp]
+            GTreeNodeBase [Childs=0] - [[7.24, 'NumberOfEdges']]
+          GTreeNodeBase [Childs=0] - [[7.4, 'NormalizedRevDistance']]
+      GTreeNodeBase [Childs=0] - [[0.14, 'CommonNeighbors']]
+"
+2004,L,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.2, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.58, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.58, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.01, 'CommonNeighbors']]
+"
+2004,T,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.48, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.48, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.48, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.66, 'CommonNeighbors']]
+"
+2004,TL,"
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[3.37, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[18.0, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[3.37, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[18.0, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[3.37, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[18.0, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=0] - [[4.26, 'NormalizedRevDistance']]
+"
+2005,all,"
+GTreeNodeBase [Childs=2] - [<]
+  GTreeNodeBase [Childs=0] - [[6.37, 'NormalizedTargDegree']]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=0] - [[9.06, 'TargId']]
+      GTreeNodeBase [Childs=2] - [inv]
+        GTreeNodeBase [Childs=0] - [[2.51, 'Constant']]
+    GTreeNodeBase [Childs=0] - [[3.29, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.95, 'OrigPagerank']]
+  GTreeNodeBase [Childs=0] - [[7.16, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[7.16, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[7.16, 'Loop']]
+"
+2005,B,"
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=0] - [[1.82, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=0] - [[1.82, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=0] - [[3.85, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[1.82, 'NormalizedDistance']]
+"
+2005,C,"
+GTreeNodeBase [Childs=0] - [[0.77, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.65, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[5.68, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[5.74, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[0.77, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[0.77, 'OrigCloseness']]
+"
+2005,L,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.59, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.59, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.59, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.59, 'CommonNeighbors']]
+"
+2005,T,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.31, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.31, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.31, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.31, 'CommonNeighbors']]
+"
+2005,TL,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=0] - [[1.95, 'Loop']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[0.48, 'OrigDegree']]
+        GTreeNodeBase [Childs=0] - [[0.78, 'TargCoreN']]
+    GTreeNodeBase [Childs=0] - [[0.78, 'TargCoreN']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=0] - [[0.11, 'TargEccentricity']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[3.19, 'OrigCloseness']]
+        GTreeNodeBase [Childs=0] - [[11.21, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [min]
+      GTreeNodeBase [Childs=0] - [[1.95, 'Loop']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[0.48, 'OrigDegree']]
+        GTreeNodeBase [Childs=0] - [[0.78, 'TargCoreN']]
+    GTreeNodeBase [Childs=0] - [[0.78, 'TargCoreN']]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=0] - [[0.11, 'TargEccentricity']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[3.19, 'OrigCloseness']]
+        GTreeNodeBase [Childs=0] - [[11.21, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[1.61, 'OrigId']]
+    GTreeNodeBase [Childs=0] - [[3.45, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[1.61, 'OrigId']]
+    GTreeNodeBase [Childs=0] - [[3.45, 'OrigId']]
+"
+2006,all,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[2.05, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[3.31, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[5.12, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[5.12, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[5.12, 'TargId']]
+"
+2006,B,"
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[0.46, 'TargEccentricity']]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=0] - [[4.59, 'NormalizedOrigDegree']]
+    GTreeNodeBase [Childs=0] - [[4.39, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[0.46, 'TargEccentricity']]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=0] - [[4.59, 'TargCloseness']]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=0] - [[4.39, 'OrigId']]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[6.58, 'Loop']]
+        GTreeNodeBase [Childs=0] - [[1.39, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=2] - [>]
+        GTreeNodeBase [Childs=2] - [inv]
+          GTreeNodeBase [Childs=0] - [[0.46, 'TargEccentricity']]
+        GTreeNodeBase [Childs=0] - [[5.92, 'NormalizedTargId']]
+      GTreeNodeBase [Childs=0] - [[1.22, 'OrigId']]
+    GTreeNodeBase [Childs=0] - [[4.59, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=0] - [[5.25, 'OrigPagerank']]
+        GTreeNodeBase [Childs=0] - [[0.95, 'OrigDegree']]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=0] - [[6.58, 'Loop']]
+        GTreeNodeBase [Childs=0] - [[0.46, 'TargEccentricity']]
+    GTreeNodeBase [Childs=0] - [[9.37, 'Distance']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=0] - [[1.39, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[4.6, 'OrigId']]
+  GTreeNodeBase [Childs=0] - [[0.35, 'NormalizedOrigDegree']]
+"
+2006,C,"
+GTreeNodeBase [Childs=0] - [[1.87, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.91, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.87, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.19, 'CommonNeighbors']]
+"
+2006,L,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.06, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.06, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.06, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[2.06, 'CommonNeighbors']]
+"
+2006,T,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[8.5, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[0.27, 'TargDegree']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=0] - [[1.63, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[1.17, 'RevDistance']]
+    GTreeNodeBase [Childs=0] - [[9.85, 'TargCoreN']]
+  GTreeNodeBase [Childs=0] - [[5.0, 'Random']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=0] - [[8.5, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[0.27, 'TargCoreN']]
+"
+2006,TL,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[1.58, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[1.58, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[1.58, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=0] - [[2.54, 'OrigCoreN']]
+    GTreeNodeBase [Childs=0] - [[10.61, 'NormalizedTargId']]
+"
+2007,all,"
+GTreeNodeBase [Childs=0] - [[14.98, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[14.98, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[14.98, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[14.98, 'Loop']]
+"
+2007,B,"
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[12.98, 'OrigPagerank']]
+  GTreeNodeBase [Childs=0] - [[7.93, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=2] - [max]
+        GTreeNodeBase [Childs=2] - [>]
+          GTreeNodeBase [Childs=2] - [>]
+            GTreeNodeBase [Childs=0] - [[2.6, 'OrigPagerank']]
+            GTreeNodeBase [Childs=0] - [[3.07, 'NormalizedOrigId']]
+          GTreeNodeBase [Childs=0] - [[2.39, 'NormalizedDistance']]
+        GTreeNodeBase [Childs=2] - [inv]
+          GTreeNodeBase [Childs=0] - [[1.3, 'RevDistance']]
+    GTreeNodeBase [Childs=0] - [[4.35, 'OrigCloseness']]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=0] - [[9.41, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=2] - [+]
+        GTreeNodeBase [Childs=0] - [[1.69, 'TargClustering']]
+        GTreeNodeBase [Childs=2] - [max]
+          GTreeNodeBase [Childs=2] - [T]
+            GTreeNodeBase [Childs=0] - [[7.14, 'NormalizedDistance']]
+          GTreeNodeBase [Childs=2] - [abs]
+            GTreeNodeBase [Childs=0] - [[2.29, 'TargId']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[4.18, 'OrigClustering']]
+    GTreeNodeBase [Childs=2] - [N]
+      GTreeNodeBase [Childs=0] - [[0.24, 'OrigCloseness']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=2] - [-]
+        GTreeNodeBase [Childs=0] - [[7.93, 'NormalizedDistance']]
+        GTreeNodeBase [Childs=2] - [=]
+          GTreeNodeBase [Childs=0] - [[1.91, 'NormalizedTargId']]
+          GTreeNodeBase [Childs=2] - [>]
+            GTreeNodeBase [Childs=0] - [[1.95, 'OrigCoreN']]
+            GTreeNodeBase [Childs=0] - [[0.92, 'TargEccentricity']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[4.18, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[0.68, 'NormalizedDistance']]
+"
+2007,C,"
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[5.28, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[4.52, 'TargDegree']]
+  GTreeNodeBase [Childs=0] - [[5.34, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[9.23, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[8.01, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[5.28, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[1.78, 'OrigCloseness']]
+  GTreeNodeBase [Childs=0] - [[5.34, 'CommonNeighbors']]
+"
+2007,L,"
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[7.15, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[2.93, 'Random']]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[6.87, 'OrigPagerank']]
+    GTreeNodeBase [Childs=0] - [[2.28, 'NormalizedOrigId']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[7.15, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[2.93, 'Random']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[4.46, 'OrigClustering']]
+    GTreeNodeBase [Childs=0] - [[5.91, 'TargCloseness']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[7.15, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[2.93, 'Random']]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [+]
+      GTreeNodeBase [Childs=0] - [[7.15, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[1.35, 'Random']]
+    GTreeNodeBase [Childs=0] - [[11.04, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[7.15, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=2] - [=]
+        GTreeNodeBase [Childs=0] - [[1.4, 'OrigCloseness']]
+        GTreeNodeBase [Childs=2] - [T]
+          GTreeNodeBase [Childs=0] - [[12.39, 'Distance']]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[6.87, 'OrigDegree']]
+    GTreeNodeBase [Childs=0] - [[2.54, 'NormalizedOrigId']]
+"
+2007,T,"
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[8.29, 'NormalizedRevDistance']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[9.54, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[8.29, 'NormalizedRevDistance']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[9.54, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=0] - [[8.29, 'NormalizedRevDistance']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[9.54, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [>]
+    GTreeNodeBase [Childs=2] - [log]
+      GTreeNodeBase [Childs=0] - [[5.8, 'Distance']]
+    GTreeNodeBase [Childs=0] - [[5.53, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=0] - [[10.73, 'NormalizedTargId']]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=2] - [log]
+        GTreeNodeBase [Childs=0] - [[2.68, 'Distance']]
+      GTreeNodeBase [Childs=0] - [[11.19, 'TargEccentricity']]
+"
+2007,TL,"
+GTreeNodeBase [Childs=2] - [N]
+  GTreeNodeBase [Childs=0] - [[3.07, 'RevDistance']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=0] - [[2.44, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.48, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.75, 'SameCommunity']]
+"
+2008,all,"
+GTreeNodeBase [Childs=0] - [[6.58, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[6.45, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[6.45, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[6.54, 'Loop']]
+"
+2008,B,"
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[1.72, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[2.36, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[0.9, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[4.77, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[2.36, 'OrigId']]
+    GTreeNodeBase [Childs=0] - [[2.95, 'OrigCoreN']]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=2] - [*]
+      GTreeNodeBase [Childs=2] - [inv]
+        GTreeNodeBase [Childs=0] - [[6.89, 'OrigId']]
+      GTreeNodeBase [Childs=0] - [[1.42, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[6.23, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[1.42, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[2.36, 'OrigId']]
+"
+2008,C,"
+GTreeNodeBase [Childs=0] - [[1.8, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[3.96, 'OrigDegree']]
+  GTreeNodeBase [Childs=0] - [[3.98, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[6.67, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[3.98, 'Loop']]
+"
+2008,L,"
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[4.47, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[8.05, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[4.47, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[4.57, 'Loop']]
+"
+2008,T,"
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [N]
+    GTreeNodeBase [Childs=0] - [[1.87, 'OrigId']]
+  GTreeNodeBase [Childs=0] - [[3.43, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [>]
+  GTreeNodeBase [Childs=2] - [N]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=2] - [T]
+        GTreeNodeBase [Childs=0] - [[1.39, 'TargPagerank']]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=2] - [+]
+          GTreeNodeBase [Childs=0] - [[0.92, 'OrigClustering']]
+          GTreeNodeBase [Childs=0] - [[0.82, 'OrigId']]
+        GTreeNodeBase [Childs=2] - [inv]
+          GTreeNodeBase [Childs=0] - [[1.07, 'OrigId']]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=0] - [[0.7, 'OrigId']]
+      GTreeNodeBase [Childs=2] - [max]
+        GTreeNodeBase [Childs=0] - [[6.06, 'NormalizedRevDistance']]
+        GTreeNodeBase [Childs=2] - [-]
+          GTreeNodeBase [Childs=0] - [[2.8, 'RevDistance']]
+          GTreeNodeBase [Childs=2] - [T]
+            GTreeNodeBase [Childs=0] - [[4.68, 'NumberOfEdges']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[4.97, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[5.88, 'OrigId']]
+"
+2008,TL,"
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [N]
+      GTreeNodeBase [Childs=2] - [opp]
+        GTreeNodeBase [Childs=0] - [[9.4, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[10.64, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[10.64, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[0.5, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [N]
+      GTreeNodeBase [Childs=2] - [opp]
+        GTreeNodeBase [Childs=0] - [[9.4, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[10.64, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[10.64, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[0.5, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.5, 'OrigDegree']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[10.64, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[0.5, 'OrigDegree']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[15.73, 'OrigId']]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=0] - [[6.85, 'TargPagerank']]
+      GTreeNodeBase [Childs=0] - [[1.85, 'OrigEccentricity']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[10.64, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[0.5, 'OrigDegree']]
+"
+distance,1978,"
+GTreeNodeBase [Childs=0] - [[0.75, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[5.52, 'Loop']]
+  GTreeNodeBase [Childs=2] - [-]
+    GTreeNodeBase [Childs=0] - [[9.48, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[3.12, 'NormalizedOrigDegree']]
+","
+GTreeNodeBase [Childs=0] - [[0.75, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[5.11, 'Loop']]
+"
+distance,1980,"
+GTreeNodeBase [Childs=0] - [[5.49, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[10.93, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[8.45, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[8.45, 'Loop']]
+"
+distance,1982,"
+GTreeNodeBase [Childs=0] - [[3.86, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[6.75, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[6.75, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[9.75, 'Loop']]
+"
+distance,1983,"
+GTreeNodeBase [Childs=0] - [[10.32, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[13.11, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[13.11, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[11.35, 'Loop']]
+"
+distance,1986,,,,
+distance,1989,"
+GTreeNodeBase [Childs=0] - [[2.03, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.03, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.03, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[2.03, 'Loop']]
+"
+distance,1990,"
+GTreeNodeBase [Childs=0] - [[3.19, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[0.13, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[3.19, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[3.19, 'CommonNeighbors']]
+"
+distance,1991,"
+GTreeNodeBase [Childs=0] - [[5.42, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[13.64, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.57, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[19.3, 'Loop']]
+"
+distance,1992,"
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[5.42, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[5.42, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[5.42, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=0] - [[5.42, 'NormalizedDistance']]
+"
+distance,1993,"
+GTreeNodeBase [Childs=0] - [[9.76, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[8.61, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.08, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.08, 'Loop']]
+"
+distance,1995,"
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[1.55, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=0] - [[4.88, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[8.07, 'OrigClustering']]
+","
+GTreeNodeBase [Childs=2] - [-]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=0] - [[1.55, 'CommonNeighbors']]
+    GTreeNodeBase [Childs=2] - [-]
+      GTreeNodeBase [Childs=2] - [-]
+        GTreeNodeBase [Childs=0] - [[7.34, 'TargDegree']]
+        GTreeNodeBase [Childs=0] - [[8.6, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[8.07, 'OrigClustering']]
+  GTreeNodeBase [Childs=0] - [[4.37, 'TargClustering']]
+","
+GTreeNodeBase [Childs=2] - [log]
+  GTreeNodeBase [Childs=0] - [[11.19, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[1.55, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[9.33, 'NormalizedOrigDegree']]
+"
+distance,1996,"
+GTreeNodeBase [Childs=0] - [[3.63, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [exp]
+  GTreeNodeBase [Childs=0] - [[3.1, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[3.1, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[20.09, 'Loop']]
+"
+distance,1997,"
+GTreeNodeBase [Childs=0] - [[4.23, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.23, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.23, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[4.23, 'Loop']]
+"
+distance,1998,"
+GTreeNodeBase [Childs=0] - [[9.57, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[9.57, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [+]
+    GTreeNodeBase [Childs=0] - [[13.91, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[9.57, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[5.78, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=0] - [[9.57, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[9.57, 'Loop']]
+"
+distance,1999,"
+GTreeNodeBase [Childs=0] - [[3.71, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=0] - [[9.37, 'TargId']]
+  GTreeNodeBase [Childs=0] - [[3.71, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=0] - [[3.71, 'Loop']]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=0] - [[1.53, 'Distance']]
+    GTreeNodeBase [Childs=0] - [[9.58, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [abs]
+  GTreeNodeBase [Childs=0] - [[3.71, 'Loop']]
+"
+distance,2000,"
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=0] - [[1.75, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [N]
+    GTreeNodeBase [Childs=2] - [opp]
+      GTreeNodeBase [Childs=0] - [[8.99, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [inv]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=0] - [[1.79, 'NormalizedRevDistance']]
+","
+GTreeNodeBase [Childs=2] - [H]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [exp]
+      GTreeNodeBase [Childs=2] - [min]
+        GTreeNodeBase [Childs=0] - [[7.92, 'NormalizedRevDistance']]
+        GTreeNodeBase [Childs=2] - [/]
+          GTreeNodeBase [Childs=0] - [[9.79, 'NormalizedRevDistance']]
+          GTreeNodeBase [Childs=0] - [[1.79, 'NormalizedRevDistance']]
+    GTreeNodeBase [Childs=0] - [[3.54, 'RevDistance']]
+"
+distance,2001,"
+GTreeNodeBase [Childs=0] - [[8.46, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[5.22, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=0] - [[0.12, 'Loop']]
+  GTreeNodeBase [Childs=2] - [exp]
+    GTreeNodeBase [Childs=0] - [[5.53, 'TargPagerank']]
+","
+GTreeNodeBase [Childs=0] - [[2.16, 'Loop']]
+"
+distance,2002,"
+GTreeNodeBase [Childs=0] - [[2.95, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[2.95, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[2.95, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[2.95, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[2.95, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[3.6, 'NormalizedOrigDegree']]
+"
+distance,2003,"
+GTreeNodeBase [Childs=0] - [[7.96, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [min]
+  GTreeNodeBase [Childs=2] - [*]
+    GTreeNodeBase [Childs=0] - [[11.93, 'Loop']]
+    GTreeNodeBase [Childs=0] - [[11.93, 'Loop']]
+  GTreeNodeBase [Childs=0] - [[1.12, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.12, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[1.12, 'Loop']]
+"
+distance,2004,"
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[2.89, 'Loop']]
+  GTreeNodeBase [Childs=2] - [T]
+    GTreeNodeBase [Childs=0] - [[2.89, 'Loop']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=0] - [[2.94, 'Loop']]
+  GTreeNodeBase [Childs=2] - [log]
+    GTreeNodeBase [Childs=2] - [inv]
+      GTreeNodeBase [Childs=0] - [[11.48, 'NormalizedTargId']]
+","
+GTreeNodeBase [Childs=2] - [+]
+  GTreeNodeBase [Childs=2] - [abs]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=0] - [[2.94, 'Loop']]
+        GTreeNodeBase [Childs=2] - [opp]
+          GTreeNodeBase [Childs=2] - [log]
+            GTreeNodeBase [Childs=0] - [[7.51, 'TargCloseness']]
+  GTreeNodeBase [Childs=0] - [[2.94, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[2.94, 'Loop']]
+"
+distance,2005,"
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[3.93, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[6.07, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [inv]
+  GTreeNodeBase [Childs=0] - [[3.93, 'TargId']]
+","
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [min]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=0] - [[6.07, 'TargId']]
+        GTreeNodeBase [Childs=0] - [[3.93, 'TargId']]
+      GTreeNodeBase [Childs=0] - [[5.02, 'SameCommunity']]
+    GTreeNodeBase [Childs=2] - [max]
+      GTreeNodeBase [Childs=2] - [*]
+        GTreeNodeBase [Childs=2] - [inv]
+          GTreeNodeBase [Childs=0] - [[6.75, 'OrigPagerank']]
+        GTreeNodeBase [Childs=0] - [[6.07, 'TargId']]
+      GTreeNodeBase [Childs=0] - [[6.87, 'NormalizedRevDistance']]
+  GTreeNodeBase [Childs=0] - [[3.93, 'NormalizedTargDegree']]
+"
+distance,2006,"
+GTreeNodeBase [Childs=2] - [=]
+  GTreeNodeBase [Childs=2] - [/]
+    GTreeNodeBase [Childs=2] - [>]
+      GTreeNodeBase [Childs=0] - [[0.01, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=0] - [[3.4, 'Loop']]
+    GTreeNodeBase [Childs=2] - [abs]
+      GTreeNodeBase [Childs=0] - [[2.68, 'SameCommunity']]
+  GTreeNodeBase [Childs=0] - [[7.1, 'NormalizedDistance']]
+","
+GTreeNodeBase [Childs=2] - [*]
+  GTreeNodeBase [Childs=2] - [=]
+    GTreeNodeBase [Childs=2] - [/]
+      GTreeNodeBase [Childs=2] - [N]
+        GTreeNodeBase [Childs=0] - [[6.66, 'Loop']]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=0] - [[6.45, 'NormalizedRevDistance']]
+        GTreeNodeBase [Childs=0] - [[1.33, 'OrigId']]
+    GTreeNodeBase [Childs=0] - [[7.1, 'NormalizedDistance']]
+  GTreeNodeBase [Childs=0] - [[1.25, 'OrigId']]
+","
+GTreeNodeBase [Childs=2] - [/]
+  GTreeNodeBase [Childs=2] - [<]
+    GTreeNodeBase [Childs=2] - [=]
+      GTreeNodeBase [Childs=2] - [/]
+        GTreeNodeBase [Childs=2] - [>]
+          GTreeNodeBase [Childs=0] - [[0.01, 'Random']]
+          GTreeNodeBase [Childs=0] - [[3.4, 'Loop']]
+        GTreeNodeBase [Childs=0] - [[18.48, 'CommonNeighbors']]
+      GTreeNodeBase [Childs=2] - [T]
+        GTreeNodeBase [Childs=0] - [[7.6, 'TargId']]
+    GTreeNodeBase [Childs=0] - [[0.01, 'CommonNeighbors']]
+  GTreeNodeBase [Childs=0] - [[11.43, 'CommonNeighbors']]
+","
+GTreeNodeBase [Childs=0] - [[1.31, 'CommonNeighbors']]
+"
+distance,2008,"
+GTreeNodeBase [Childs=0] - [[5.25, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[5.25, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[5.25, 'Loop']]
+","
+GTreeNodeBase [Childs=0] - [[5.25, 'Loop']]
+"
