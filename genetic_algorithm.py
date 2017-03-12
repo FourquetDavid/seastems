@@ -48,7 +48,7 @@ def new_genome(results_path, **kwargs):
     extension = kwargs.get("extension")
     number_of_nodes = kwargs.get("number_of_nodes")
     edge_data_path = kwargs.get("edge_data")
-
+    node_data_path = kwargs.get("node_data")
 
 
 
@@ -70,6 +70,13 @@ def new_genome(results_path, **kwargs):
         genome.setParams(n_edge_data=n_edge_data_matrix)
         choices[1].append("EdgeData")
         choices[1].append("NormEdgeData")
+    if node_data_path is not None:
+        node_data = ne.get_node_data(node_data_path,data_path+extension,number_of_nodes)
+        genome.setParams(node_data=node_data)
+        choices[1].append("TargNodeData")
+        choices[1].append("NormTargNodeData")
+        choices[1].append("OrigNodeData")
+        choices[1].append("NormOrigNodeData")
 
     # defines alleles : one array containing possible leaves and one containing possible functions
     alleles = gall.GAlleles()

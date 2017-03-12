@@ -5,11 +5,11 @@ Created on 15 nov. 2012
 """
 import itertools as it
 import os
-
+import operator
 import networkx as nx
 import numpy as np
 from lxml import etree as xml
-import random
+import csv
 import community
 
 """
@@ -23,7 +23,7 @@ contains two main function :
 """
 
 number_of_elements_by_array = 10
-extension = ".gexf"
+extension = ""
 
 
 def get_datas_from_real_network(data_path, results_path, name=None, dynamic=None, evaluation_method=""):
@@ -171,18 +171,26 @@ def get_number_of_nodes_and_edges(results_path, name, numero=None):
     return int(nb_nodes), int(nb_edges)
 
 def get_edge_data(edge_data_path,data_path,number_of_nodes):
-    graph = nx.read_gexf(data_path)
+    graph =nx.read_gexf(data_path)
+    sublist_nodes = sorted(graph.degree_iter(),key=operator.itemgetter(1),reverse=True)[:number_of_nodes]
     try :
         graph_weights = nx.read_gexf(edge_data_path.replace(".csv",".gexf"))
     except:
         graph_weights = nx.read_weighted_edgelist(edge_data_path,delimiter=",")
         nx.write_gexf(graph_weights,edge_data_path.replace(".csv",".gexf"))
-    sublist_nodes = random.sample(graph.nodes(),number_of_nodes)
-    graph_weights = nx.subgraph(graph_weights,sublist_nodes)
+    graph_weights = nx.subgraph(graph_weights,[node for node, degree in sublist_nodes ])
     matrix = nx.to_numpy_matrix(graph_weights, dtype=float,weight="weight")
     normalized_matrix = matrix/np.max(matrix)
     return matrix,normalized_matrix
 
+def get_node_data(node_data_path,data_path,number_of_nodes):
+    graph =nx.read_gexf(data_path)
+    sublist_nodes = sorted(graph.degree_iter(),key=operator.itemgetter(1),reverse=True)[:number_of_nodes]
+    sublist_nodes=[node for node,degree in sublist_nodes]
+    with open(node_data_path, 'rb') as csvfile:
+        reader = csv.reader(csvfile, delimiter=' ')
+        node_data = [float(data) for node,data in reader if node in sublist_nodes]
+    return node_data
 '''
 functions that help comparing results
 '''

@@ -117,6 +117,9 @@ def grow_network_with_constants(decision_tree, number_of_nodes, number_of_edges,
         graph.add_edge_data(decision_tree.getParam("edge_data"))
         graph.add_n_edge_data(decision_tree.getParam("n_edge_data"))
 
+    if decision_tree.getParam("node_data") is not None:
+        graph.add_node_data(decision_tree.getParam("node_data"))
+
     number_of_nodes_init = graph.number_of_nodes()
     for i in range(number_of_nodes):
         graph.add_node(i + number_of_nodes_init)

@@ -10,7 +10,7 @@ import network_evaluation as ne
 import genetic_algorithm as ga
 import warnings
 import os
-
+import ast
 np.seterr('ignore')
 
 warnings.filterwarnings("ignore")
@@ -23,19 +23,18 @@ and call it
 
 
 def main():
-    # arg1 : le nombre de noeuds voulus
-    # arg2: juste le data file -".gexf"
+    # arg1 : le nombre de noeuds voulus, permet de raccourcir l'execution lors de tests
+    # arg2: data file ".gexf"
     # arg3 : le res directory
-    # arg4 : liste des distances
-    number_of_nodes = None
+    # arg4 : liste des distances ".csv" ou ".gexf"
+    # arg 5 : liste des donnees des noeuds ".txt"
+    number_of_nodes = int(sys.argv[1])
     name = sys.argv[2]
     network_name = name
     data_path = name
     resdir = sys.argv[3]
-    if len(sys.argv) > 4:
-        edge_data = sys.argv[4]
-    else:
-        edge_data = None
+    edge_data = None if sys.argv[4]=='None' else sys.argv[4]
+    node_data = None if sys.argv[5]=='None' else sys.argv[5]
     if not os.path.exists(resdir):
         os.mkdir(resdir)
     results_path = resdir + "/result.xml"
@@ -45,7 +44,7 @@ def main():
     freq_stats = 5
 
     tree_type = "with_constants"
-    extension = ".gexf"
+    extension = ""
     multiprocessing = False
     dynamic = False
 
@@ -69,7 +68,8 @@ def main():
         network_type=network_type,
         extension=extension,
         number_of_nodes=number_of_nodes,
-        edge_data=edge_data
+        edge_data=edge_data,
+        node_data=node_data
     )
 
     # optional arguments for evolve :

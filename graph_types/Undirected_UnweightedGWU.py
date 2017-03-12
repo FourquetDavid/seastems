@@ -46,6 +46,19 @@ class Undirected_UnweightedGWU(gwu.GraphWithUpdate, nx.Graph):
     def add_n_edge_data(self, n_edge_data):
         self.n_edge_data = np.asarray(n_edge_data)
 
+    def add_node_data(self,node_data):
+        self.targ_node_data =np.outer(np.ones(len(node_data),dtype=float), node_data)
+
+
+        self.orig_node_data = np.outer(node_data, np.ones(len(node_data),dtype=float))
+
+
+        self.n_targ_node_data = self.targ_node_data/np.max(self.targ_node_data)
+
+        self.n_orig_node_data = self.orig_node_data/np.max(self.orig_node_data)
+
+
+
     def add_node(self, n):
         nx.Graph.add_node(self, n, attr_dict=None)
         self.i_graphe.add_vertices(1)
@@ -109,6 +122,7 @@ class Undirected_UnweightedGWU(gwu.GraphWithUpdate, nx.Graph):
         '''
         return self.Orig(range(self.number_of_nodes()))
 
+
     def NormalizedOrigId(self):
         ''' returns a 2d array containing the identity number (0 to n=number of nodes) of the origin node for all edges divide by the total number of nodes
         '''
@@ -120,6 +134,18 @@ class Undirected_UnweightedGWU(gwu.GraphWithUpdate, nx.Graph):
 
     def NormEdgeData(self):
         return self.n_edge_data
+
+    def TargNodeData(self):
+        return self.targ_node_data
+
+    def NormTargNodeData(self):
+        return self.n_targ_node_data
+
+    def OrigNodeData(self):
+        return self.orig_node_data
+
+    def NormOrigNodeData(self):
+        return self.n_orig_node_data
 
     def TargDegree(self):
         ''' returns a 2d array containing the in degree of the target node for all edges
